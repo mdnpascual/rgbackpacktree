@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useLayoutEffect, useState } from 'react';
 import { TransformWrapper, TransformComponent } from 'react-zoom-pan-pinch';
 import Skill, { SkillData } from './Skill';
 import LevelChangeModal from './LevelChangeModal';
@@ -1054,10 +1054,416 @@ const VanguardTab = () => {
 			position: { x: 60 + xOffset, y: 1025 + yOffset },
 			radius: 35,
 		},
+		{
+			id: 'attack_2_2',
+			name: 'Attack_2_2',
+			currentLevel: 0,
+			levelTiers: [
+				{ minLevel: 1, maxLevel: 10,
+					requiredPrerequisiteLevel:  [{
+						id: 'defense',
+						level: 20,
+					}]
+				},
+				{ minLevel: 11, maxLevel: 20,
+					requiredPrerequisiteLevel: [{
+						id: 'defense',
+						level: 40,
+					}]
+				},
+				{ minLevel: 21, maxLevel: 30,
+					requiredPrerequisiteLevel: [{
+						id: 'defense',
+						level: 60,
+					}]
+				},
+				{ minLevel: 31, maxLevel: 40,
+					requiredPrerequisiteLevel: [{
+						id: 'defense',
+						level: 80,
+					}]
+				},
+				{ minLevel: 41, maxLevel: 50,
+					requiredPrerequisiteLevel: [{
+						id: 'defense',
+						level: 100,
+					}]
+				}
+			],
+			position: { x: 600 + xOffset, y: 410 + yOffset },
+			radius: 35,
+		},
+		{
+			id: 'ignore_dodge_2_2',
+			name: 'Ignore_Dodge_2_2',
+			currentLevel: 0,
+			levelTiers: [
+				{ minLevel: 1, maxLevel: 20,
+					requiredPrerequisiteLevel:  [{
+						id: 'attack_2_2',
+						level: 20,
+					}]
+				},
+				{ minLevel: 21, maxLevel: 40,
+					requiredPrerequisiteLevel: [{
+						id: 'attack_2_2',
+						level: 40,
+					}]
+				},
+				{ minLevel: 41, maxLevel: 60,
+					requiredPrerequisiteLevel: [{
+						id: 'attack_2_2',
+						level: 60,
+					}]
+				},
+				{ minLevel: 61, maxLevel: 80,
+					requiredPrerequisiteLevel: [{
+						id: 'attack_2_2',
+						level: 80,
+					}]
+				},
+				{ minLevel: 81, maxLevel: 100,
+					requiredPrerequisiteLevel: [{
+						id: 'attack_2_2',
+						level: 100,
+					}]
+				}
+			],
+			position: { x: 495 + xOffset, y: 255 + yOffset },
+			radius: 50,
+		},
+		{
+			id: 'critical_hit_2_2',
+			name: 'Critical_Hit_2_2',
+			currentLevel: 0,
+			levelTiers: [
+				{ minLevel: 1, maxLevel: 20,
+					requiredPrerequisiteLevel:  [{
+						id: 'attack_2_2',
+						level: 20,
+					}]
+				},
+				{ minLevel: 21, maxLevel: 40,
+					requiredPrerequisiteLevel: [{
+						id: 'attack_2_2',
+						level: 40,
+					}]
+				},
+				{ minLevel: 41, maxLevel: 60,
+					requiredPrerequisiteLevel: [{
+						id: 'attack_2_2',
+						level: 60,
+					}]
+				},
+				{ minLevel: 61, maxLevel: 80,
+					requiredPrerequisiteLevel: [{
+						id: 'attack_2_2',
+						level: 80,
+					}]
+				},
+				{ minLevel: 81, maxLevel: 100,
+					requiredPrerequisiteLevel: [{
+						id: 'attack_2_2',
+						level: 100,
+					}]
+				}
+			],
+			position: { x: 710 + xOffset, y: 255 + yOffset },
+			radius: 50,
+		},
+		{
+			id: 'global_attack_2_2',
+			name: 'Global_Attack_2_2',
+			currentLevel: 0,
+			levelTiers: [
+				{ minLevel: 1, maxLevel: 10,
+					requiredPrerequisiteLevel:  [
+					{
+						id: 'ignore_dodge_2_2',
+						level: 20,
+					},
+					{
+						id: 'critical_hit_2_2',
+						level: 20,
+					},
+				]
+				},
+				{ minLevel: 11, maxLevel: 20,
+					requiredPrerequisiteLevel:  [
+					{
+						id: 'ignore_dodge_2_2',
+						level: 40,
+					},
+					{
+						id: 'critical_hit_2_2',
+						level: 40,
+					},
+				]
+				},
+				{ minLevel: 21, maxLevel: 30,
+					requiredPrerequisiteLevel:  [
+					{
+						id: 'ignore_dodge_2_2',
+						level: 60,
+					},
+					{
+						id: 'critical_hit_2_2',
+						level: 60,
+					},
+				]
+				},
+				{ minLevel: 31, maxLevel: 40,
+					requiredPrerequisiteLevel:  [
+					{
+						id: 'ignore_dodge_2_2',
+						level: 80,
+					},
+					{
+						id: 'critical_hit_2_2',
+						level: 80,
+					},
+				]
+				},
+				{ minLevel: 41, maxLevel: 50,
+					requiredPrerequisiteLevel:  [
+					{
+						id: 'ignore_dodge_2_2',
+						level: 100,
+					},
+					{
+						id: 'critical_hit_2_2',
+						level: 100,
+					},
+				]
+				},
+			],
+			position: { x: 600 + xOffset, y: 95 + yOffset },
+			radius: 35,
+		},
+		{
+			id: 'final_1',
+			name: 'Final_1',
+			currentLevel: 0,
+			levelTiers: [
+				{ minLevel: 1, maxLevel: 1,
+					requiredPrerequisiteLevel:  [
+					{
+						id: 'global_hp_1_2',
+						level: 10,
+					},
+					{
+						id: 'global_def_1_1',
+						level: 10,
+					},
+				]
+				},
+				{ minLevel: 2, maxLevel: 2,
+					requiredPrerequisiteLevel:  [
+					{
+						id: 'global_hp_1_2',
+						level: 20,
+					},
+					{
+						id: 'global_def_1_1',
+						level: 20,
+					},
+				]
+				},
+				{ minLevel: 3, maxLevel: 3,
+					requiredPrerequisiteLevel:  [
+					{
+						id: 'global_hp_1_2',
+						level: 30,
+					},
+					{
+						id: 'global_def_1_1',
+						level: 30,
+					},
+				]
+				},
+				{ minLevel: 4, maxLevel: 4,
+					requiredPrerequisiteLevel:  [
+					{
+						id: 'global_hp_1_2',
+						level: 40,
+					},
+					{
+						id: 'global_def_1_1',
+						level: 40,
+					},
+				]
+				},
+				{ minLevel: 5, maxLevel: 5,
+					requiredPrerequisiteLevel:  [
+					{
+						id: 'global_hp_1_2',
+						level: 50,
+					},
+					{
+						id: 'global_def_1_1',
+						level: 50,
+					},
+				]
+				},
+			],
+			position: { x: 220 + xOffset, y: 1325 + yOffset },
+			radius: 65,
+		},
+		{
+			id: 'final_2',
+			name: 'Final_2',
+			currentLevel: 0,
+			levelTiers: [
+				{ minLevel: 1, maxLevel: 1,
+					requiredPrerequisiteLevel:  [
+					{
+						id: 'global_hp_2_1',
+						level: 10,
+					},
+					{
+						id: 'global_attack_2_2',
+						level: 10,
+					},
+				]
+				},
+				{ minLevel: 2, maxLevel: 2,
+					requiredPrerequisiteLevel:  [
+					{
+						id: 'global_hp_2_1',
+						level: 20,
+					},
+					{
+						id: 'global_attack_2_2',
+						level: 20,
+					},
+				]
+				},
+				{ minLevel: 3, maxLevel: 3,
+					requiredPrerequisiteLevel:  [
+					{
+						id: 'global_hp_2_1',
+						level: 30,
+					},
+					{
+						id: 'global_attack_2_2',
+						level: 30,
+					},
+				]
+				},
+				{ minLevel: 4, maxLevel: 4,
+					requiredPrerequisiteLevel:  [
+					{
+						id: 'global_hp_2_1',
+						level: 40,
+					},
+					{
+						id: 'global_attack_2_2',
+						level: 40,
+					},
+				]
+				},
+				{ minLevel: 5, maxLevel: 5,
+					requiredPrerequisiteLevel:  [
+					{
+						id: 'global_hp_2_1',
+						level: 50,
+					},
+					{
+						id: 'global_attack_2_2',
+						level: 50,
+					},
+				]
+				},
+			],
+			position: { x: 220 + xOffset, y: 90 + yOffset },
+			radius: 65,
+		},
+		{
+			id: 'final_3',
+			name: 'Final_3',
+			currentLevel: 0,
+			levelTiers: [
+				{ minLevel: 1, maxLevel: 1,
+					requiredPrerequisiteLevel:  [
+					{
+						id: 'global_attack_3_1',
+						level: 10,
+					},
+					{
+						id: 'global_def_3_2',
+						level: 10,
+					},
+				]
+				},
+				{ minLevel: 2, maxLevel: 2,
+					requiredPrerequisiteLevel:  [
+					{
+						id: 'global_attack_3_1',
+						level: 20,
+					},
+					{
+						id: 'global_def_3_2',
+						level: 20,
+					},
+				]
+				},
+				{ minLevel: 3, maxLevel: 3,
+					requiredPrerequisiteLevel:  [
+					{
+						id: 'global_attack_3_1',
+						level: 30,
+					},
+					{
+						id: 'global_def_3_2',
+						level: 30,
+					},
+				]
+				},
+				{ minLevel: 4, maxLevel: 4,
+					requiredPrerequisiteLevel:  [
+					{
+						id: 'global_attack_3_1',
+						level: 40,
+					},
+					{
+						id: 'global_def_3_2',
+						level: 40,
+					},
+				]
+				},
+				{ minLevel: 5, maxLevel: 5,
+					requiredPrerequisiteLevel:  [
+					{
+						id: 'global_attack_3_1',
+						level: 50,
+					},
+					{
+						id: 'global_def_3_2',
+						level: 50,
+					},
+				]
+				},
+			],
+			position: { x: 1335 + xOffset, y: 720 + yOffset },
+			radius: 65,
+		}
 	]);
+
+	const svgWidth = 1400;
+	const svgHeight = 1400;
 
 	const [modalSkill, setModalSkill] = useState<SkillData | null>(null); // Skill to change level
 	const [isModalOpen, setModalOpen] = useState(false);
+
+	const [dimensions, setDimensions] = useState({ width: window.innerWidth, height: window.innerHeight });
+
+	useLayoutEffect(() => {
+		const updateDimensions = () => {
+			setDimensions({ width: window.innerWidth, height: window.innerHeight });
+		};
+
+		updateDimensions();
+	}, []);
 
 	const handleLevelChange = (id: string, change: number) => {
 		setSkills((prevSkills) =>
@@ -1076,37 +1482,46 @@ const VanguardTab = () => {
 	return (
 		<SkillProvider>
 			<TransformWrapper
-				initialScale={1}
+				initialScale={0.5}
+				minScale={0.25}
 				limitToBounds={false}
-				initialPositionX={0}
-				initialPositionY={-300} // Pans down by 200px
 			>
-				<TransformComponent>
+				{(setTransform) => {
+					setTimeout(() => {
+						const scaleWidth = dimensions.width * 0.65 / svgWidth;
+						const scaleHeight = dimensions.height / svgHeight;
+						setTransform.setTransform(0,0, Math.min(scaleWidth, scaleHeight))
+					}, 400);
 
-					<svg width="10000" height="10000">
-						{skills.map(skill => (
-							<Skill
-								key={skill.id}
-								x={skill.position.x}
-								y={skill.position.y}
-								r={skill.radius}
-								name={skill.name}
-								currentLevel={skill.currentLevel}
-								levelTiers={skill.levelTiers}
-								onLevelChange={handleClick}
-								id={skill.id}
-							/>
-						))}
-					</svg>
+					return (
+					<TransformComponent>
+						<div>
+							<svg width={svgWidth} height={svgHeight}>
+								{skills.map(skill => (
+									<Skill
+										key={skill.id}
+										x={skill.position.x}
+										y={skill.position.y}
+										r={skill.radius}
+										name={skill.name}
+										currentLevel={skill.currentLevel}
+										levelTiers={skill.levelTiers}
+										onLevelChange={handleClick}
+										id={skill.id}
+									/>
+								))}
+							</svg>
 
-					{isModalOpen && modalSkill && (
-						<LevelChangeModal
-							skillName={modalSkill.name}
-							onClose={() => setModalOpen(false)}
-							onChange={(change) => handleLevelChange(modalSkill.id, change)}
-						/>
-					)}
-				</TransformComponent>
+							{isModalOpen && modalSkill && (
+								<LevelChangeModal
+									skillName={modalSkill.name}
+									onClose={() => setModalOpen(false)}
+									onChange={(change) => handleLevelChange(modalSkill.id, change)}
+								/>
+							)}
+						</div>
+					</TransformComponent>
+				)}}
 			</TransformWrapper>
 		</SkillProvider>
 	);

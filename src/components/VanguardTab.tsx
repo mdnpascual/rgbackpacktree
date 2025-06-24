@@ -310,6 +310,192 @@ const VanguardTab = () => {
 			position: { x: 1135 + xOffset, y: 410 + yOffset },
 			radius: 35,
 		},
+		{
+			id: 'hp_1_1',
+			name: 'HP_1_1',
+			currentLevel: 0,
+			levelTiers: [
+				{ minLevel: 1, maxLevel: 10,
+					requiredPrerequisiteLevel:  [{
+						id: 'attack',
+						level: 20,
+					}]
+				},
+				{ minLevel: 11, maxLevel: 20,
+					requiredPrerequisiteLevel: [{
+						id: 'attack',
+						level: 40,
+					}]
+				},
+				{ minLevel: 21, maxLevel: 30,
+					requiredPrerequisiteLevel: [{
+						id: 'attack',
+						level: 60,
+					}]
+				},
+				{ minLevel: 31, maxLevel: 40,
+					requiredPrerequisiteLevel: [{
+						id: 'attack',
+						level: 80,
+					}]
+				},
+				{ minLevel: 41, maxLevel: 50,
+					requiredPrerequisiteLevel: [{
+						id: 'attack',
+						level: 100,
+					}]
+				}
+			],
+			position: { x: 600 + xOffset, y: 1030 + yOffset },
+			radius: 35,
+		},
+		{
+			id: 'ignore_dodge_1_1',
+			name: 'Ignore_Dodge_1_1',
+			currentLevel: 0,
+			levelTiers: [
+				{ minLevel: 1, maxLevel: 20,
+					requiredPrerequisiteLevel:  [{
+						id: 'hp_1_1',
+						level: 20,
+					}]
+				},
+				{ minLevel: 21, maxLevel: 40,
+					requiredPrerequisiteLevel: [{
+						id: 'hp_1_1',
+						level: 40,
+					}]
+				},
+				{ minLevel: 41, maxLevel: 60,
+					requiredPrerequisiteLevel: [{
+						id: 'hp_1_1',
+						level: 60,
+					}]
+				},
+				{ minLevel: 61, maxLevel: 80,
+					requiredPrerequisiteLevel: [{
+						id: 'hp_1_1',
+						level: 80,
+					}]
+				},
+				{ minLevel: 81, maxLevel: 100,
+					requiredPrerequisiteLevel: [{
+						id: 'hp_1_1',
+						level: 100,
+					}]
+				}
+			],
+			position: { x: 495 + xOffset, y: 1180 + yOffset },
+			radius: 50,
+		},
+		{
+			id: 'pierce_1_1',
+			name: 'Pierce_1_1',
+			currentLevel: 0,
+			levelTiers: [
+				{ minLevel: 1, maxLevel: 20,
+					requiredPrerequisiteLevel:  [{
+						id: 'hp_1_1',
+						level: 20,
+					}]
+				},
+				{ minLevel: 21, maxLevel: 40,
+					requiredPrerequisiteLevel: [{
+						id: 'hp_1_1',
+						level: 40,
+					}]
+				},
+				{ minLevel: 41, maxLevel: 60,
+					requiredPrerequisiteLevel: [{
+						id: 'hp_1_1',
+						level: 60,
+					}]
+				},
+				{ minLevel: 61, maxLevel: 80,
+					requiredPrerequisiteLevel: [{
+						id: 'hp_1_1',
+						level: 80,
+					}]
+				},
+				{ minLevel: 81, maxLevel: 100,
+					requiredPrerequisiteLevel: [{
+						id: 'hp_1_1',
+						level: 100,
+					}]
+				}
+			],
+			position: { x: 710 + xOffset, y: 1180 + yOffset },
+			radius: 50,
+		},
+		{
+			id: 'global_def_1_1',
+			name: 'Global_Def_1_1',
+			currentLevel: 0,
+			levelTiers: [
+				{ minLevel: 1, maxLevel: 10,
+					requiredPrerequisiteLevel:  [
+					{
+						id: 'pierce_1_1',
+						level: 20,
+					},
+					{
+						id: 'ignore_dodge_1_1',
+						level: 20,
+					},
+				]
+				},
+				{ minLevel: 11, maxLevel: 20,
+					requiredPrerequisiteLevel:  [
+					{
+						id: 'pierce_1_1',
+						level: 40,
+					},
+					{
+						id: 'ignore_dodge_1_1',
+						level: 40,
+					},
+				]
+				},
+				{ minLevel: 21, maxLevel: 30,
+					requiredPrerequisiteLevel:  [
+					{
+						id: 'pierce_1_1',
+						level: 60,
+					},
+					{
+						id: 'ignore_dodge_1_1',
+						level: 60,
+					},
+				]
+				},
+				{ minLevel: 31, maxLevel: 40,
+					requiredPrerequisiteLevel:  [
+					{
+						id: 'pierce_1_1',
+						level: 80,
+					},
+					{
+						id: 'ignore_dodge_1_1',
+						level: 80,
+					},
+				]
+				},
+				{ minLevel: 41, maxLevel: 50,
+					requiredPrerequisiteLevel:  [
+					{
+						id: 'pierce_1_1',
+						level: 100,
+					},
+					{
+						id: 'ignore_dodge_1_1',
+						level: 100,
+					},
+				]
+				},
+			],
+			position: { x: 600 + xOffset, y: 1345 + yOffset },
+			radius: 35,
+		},
     ]);
 	const [modalSkill, setModalSkill] = useState<SkillData | null>(null); // Skill to change level
 	const [isModalOpen, setModalOpen] = useState(false);
@@ -330,7 +516,12 @@ const VanguardTab = () => {
 
 	return (
 		<SkillProvider>
-			<TransformWrapper>
+			<TransformWrapper
+				initialScale={1}
+				limitToBounds={false}
+				initialPositionX={0}
+				initialPositionY={-300} // Pans down by 200px
+			>
 				<TransformComponent>
 
 					<svg width="10000" height="10000">

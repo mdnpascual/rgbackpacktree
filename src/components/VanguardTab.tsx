@@ -496,6 +496,192 @@ const VanguardTab = () => {
 			position: { x: 600 + xOffset, y: 1345 + yOffset },
 			radius: 35,
 		},
+		{
+			id: 'hp_2_1',
+			name: 'HP_2_1',
+			currentLevel: 0,
+			levelTiers: [
+				{ minLevel: 1, maxLevel: 10,
+					requiredPrerequisiteLevel:  [{
+						id: 'defense',
+						level: 20,
+					}]
+				},
+				{ minLevel: 11, maxLevel: 20,
+					requiredPrerequisiteLevel: [{
+						id: 'defense',
+						level: 40,
+					}]
+				},
+				{ minLevel: 21, maxLevel: 30,
+					requiredPrerequisiteLevel: [{
+						id: 'defense',
+						level: 60,
+					}]
+				},
+				{ minLevel: 31, maxLevel: 40,
+					requiredPrerequisiteLevel: [{
+						id: 'defense',
+						level: 80,
+					}]
+				},
+				{ minLevel: 41, maxLevel: 50,
+					requiredPrerequisiteLevel: [{
+						id: 'defense',
+						level: 100,
+					}]
+				}
+			],
+			position: { x: 330 + xOffset, y: 565 + yOffset },
+			radius: 35,
+		},
+		{
+			id: 'dodge_2_1',
+			name: 'Dodge_2_1',
+			currentLevel: 0,
+			levelTiers: [
+				{ minLevel: 1, maxLevel: 20,
+					requiredPrerequisiteLevel:  [{
+						id: 'hp_2_1',
+						level: 20,
+					}]
+				},
+				{ minLevel: 21, maxLevel: 40,
+					requiredPrerequisiteLevel: [{
+						id: 'hp_2_1',
+						level: 40,
+					}]
+				},
+				{ minLevel: 41, maxLevel: 60,
+					requiredPrerequisiteLevel: [{
+						id: 'hp_2_1',
+						level: 60,
+					}]
+				},
+				{ minLevel: 61, maxLevel: 80,
+					requiredPrerequisiteLevel: [{
+						id: 'hp_2_1',
+						level: 80,
+					}]
+				},
+				{ minLevel: 81, maxLevel: 100,
+					requiredPrerequisiteLevel: [{
+						id: 'hp_2_1',
+						level: 100,
+					}]
+				}
+			],
+			position: { x: 145 + xOffset, y: 570 + yOffset },
+			radius: 50,
+		},
+		{
+			id: 'pierce_2_1',
+			name: 'Pierce_2_1',
+			currentLevel: 0,
+			levelTiers: [
+				{ minLevel: 1, maxLevel: 20,
+					requiredPrerequisiteLevel:  [{
+						id: 'hp_2_1',
+						level: 20,
+					}]
+				},
+				{ minLevel: 21, maxLevel: 40,
+					requiredPrerequisiteLevel: [{
+						id: 'hp_2_1',
+						level: 40,
+					}]
+				},
+				{ minLevel: 41, maxLevel: 60,
+					requiredPrerequisiteLevel: [{
+						id: 'hp_2_1',
+						level: 60,
+					}]
+				},
+				{ minLevel: 61, maxLevel: 80,
+					requiredPrerequisiteLevel: [{
+						id: 'hp_2_1',
+						level: 80,
+					}]
+				},
+				{ minLevel: 81, maxLevel: 100,
+					requiredPrerequisiteLevel: [{
+						id: 'hp_2_1',
+						level: 100,
+					}]
+				}
+			],
+			position: { x: 250 + xOffset, y: 395 + yOffset },
+			radius: 50,
+		},
+		{
+			id: 'global_hp_2_1',
+			name: 'Global_HP_2_1',
+			currentLevel: 0,
+			levelTiers: [
+				{ minLevel: 1, maxLevel: 10,
+					requiredPrerequisiteLevel:  [
+					{
+						id: 'pierce_2_1',
+						level: 20,
+					},
+					{
+						id: 'dodge_2_1',
+						level: 20,
+					},
+				]
+				},
+				{ minLevel: 11, maxLevel: 20,
+					requiredPrerequisiteLevel:  [
+					{
+						id: 'pierce_2_1',
+						level: 40,
+					},
+					{
+						id: 'dodge_2_1',
+						level: 40,
+					},
+				]
+				},
+				{ minLevel: 21, maxLevel: 30,
+					requiredPrerequisiteLevel:  [
+					{
+						id: 'pierce_2_1',
+						level: 60,
+					},
+					{
+						id: 'dodge_2_1',
+						level: 60,
+					},
+				]
+				},
+				{ minLevel: 31, maxLevel: 40,
+					requiredPrerequisiteLevel:  [
+					{
+						id: 'pierce_2_1',
+						level: 80,
+					},
+					{
+						id: 'dodge_2_1',
+						level: 80,
+					},
+				]
+				},
+				{ minLevel: 41, maxLevel: 50,
+					requiredPrerequisiteLevel:  [
+					{
+						id: 'pierce_2_1',
+						level: 100,
+					},
+					{
+						id: 'dodge_2_1',
+						level: 100,
+					},
+				]
+				},
+			],
+			position: { x: 60 + xOffset, y: 415 + yOffset },
+			radius: 35,
+		},
     ]);
 	const [modalSkill, setModalSkill] = useState<SkillData | null>(null); // Skill to change level
 	const [isModalOpen, setModalOpen] = useState(false);

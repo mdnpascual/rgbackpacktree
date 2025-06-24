@@ -48,6 +48,11 @@ const Skill: React.FC<SkillProps> = ({ x, y,r, name, currentLevel, levelTiers, o
 
 	const openLevelChangePopup = (id: string) => {
 		// TODO: Logic to open a popup/modal here
+		if (canLevelUp(skills)){
+			onLevelChange(id, 1);
+		} else {
+			console.log("nop")
+		}
 		console.log(`Open popup for level change on ${id}`);
 	};
 
@@ -83,7 +88,7 @@ const Skill: React.FC<SkillProps> = ({ x, y,r, name, currentLevel, levelTiers, o
 				cx={x}
 				cy={y}
 				r={r}
-				fill={canLevelUp(skills) ? '#0ff' : '#f0f0f0'}
+				fill={currentLevel > 0 ? '#0ff' : '#f0f0f0'}
 				stroke="#0ff"
 				onClick={handleClick}
 				style={{ pointerEvents: 'visible' }}

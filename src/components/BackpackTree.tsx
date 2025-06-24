@@ -3,6 +3,8 @@ import { Box, Typography, Tabs, Tab } from "@mui/material";
 import GuardianTab from "./GuardianTab";
 import VanguardTab from "./VanguardTab";
 import CanonTab from "./CanonTab";
+import { VanguardTree } from "../data/VanguardTree";
+import { SkillProvider } from "./SkillContext";
 
 const BackpackTree = () => {
 	const [value, setValue] = React.useState(0);
@@ -25,7 +27,7 @@ const BackpackTree = () => {
 			<Box flexGrow={1} overflow="hidden" marginTop={2} height="calc(100vh - 64px)"> {/* Adjust height as needed */}
 				{/* Render selected tab content based on the value */}
 				{value === 0 && <GuardianTab />}
-				{value === 1 && <VanguardTab />}
+				{value === 1 && <SkillProvider initialSkills={VanguardTree(0,0)}><VanguardTab /></SkillProvider>}
 				{value === 2 && <CanonTab />}
 			</Box>
 		</Box>

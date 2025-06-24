@@ -8,8 +8,8 @@ interface SkillContextProps {
 
 const SkillContext = createContext<SkillContextProps | undefined>(undefined);
 
-export const SkillProvider: React.FC<{ children: ReactNode }> = ({ children }) => {
-	const [skills, setSkills] = useState<SkillData[]>([]); // Initialize with the desired skill data
+export const SkillProvider: React.FC<{ initialSkills: SkillData[], children: ReactNode }> = ({ initialSkills, children }) => {
+	const [skills, setSkills] = useState<SkillData[]>(initialSkills); // Initialize with the desired skill data
 
 	return (
 		<SkillContext.Provider value={{ skills, setSkills }}>

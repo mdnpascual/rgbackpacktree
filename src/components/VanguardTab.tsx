@@ -682,7 +682,194 @@ const VanguardTab = () => {
 			position: { x: 60 + xOffset, y: 415 + yOffset },
 			radius: 35,
 		},
-    ]);
+		{
+			id: 'def_3_2',
+			name: 'Def_3_2',
+			currentLevel: 0,
+			levelTiers: [
+				{ minLevel: 1, maxLevel: 10,
+					requiredPrerequisiteLevel:  [{
+						id: 'HP',
+						level: 20,
+					}]
+				},
+				{ minLevel: 11, maxLevel: 20,
+					requiredPrerequisiteLevel: [{
+						id: 'HP',
+						level: 40,
+					}]
+				},
+				{ minLevel: 21, maxLevel: 30,
+					requiredPrerequisiteLevel: [{
+						id: 'HP',
+						level: 60,
+					}]
+				},
+				{ minLevel: 31, maxLevel: 40,
+					requiredPrerequisiteLevel: [{
+						id: 'HP',
+						level: 80,
+					}]
+				},
+				{ minLevel: 41, maxLevel: 50,
+					requiredPrerequisiteLevel: [{
+						id: 'HP',
+						level: 100,
+					}]
+				}
+			],
+			position: { x: 865 + xOffset, y: 875 + yOffset },
+			radius: 35,
+		},
+		{
+			id: 'ignore_dodge_3_2',
+			name: 'Ignore_Dodge_2_1',
+			currentLevel: 0,
+			levelTiers: [
+				{ minLevel: 1, maxLevel: 20,
+					requiredPrerequisiteLevel:  [{
+						id: 'def_3_2',
+						level: 20,
+					}]
+				},
+				{ minLevel: 21, maxLevel: 40,
+					requiredPrerequisiteLevel: [{
+						id: 'def_3_2',
+						level: 40,
+					}]
+				},
+				{ minLevel: 41, maxLevel: 60,
+					requiredPrerequisiteLevel: [{
+						id: 'def_3_2',
+						level: 60,
+					}]
+				},
+				{ minLevel: 61, maxLevel: 80,
+					requiredPrerequisiteLevel: [{
+						id: 'def_3_2',
+						level: 80,
+					}]
+				},
+				{ minLevel: 81, maxLevel: 100,
+					requiredPrerequisiteLevel: [{
+						id: 'def_3_2',
+						level: 100,
+					}]
+				}
+			],
+			position: { x: 1050 + xOffset, y: 860 + yOffset },
+			radius: 50,
+		},
+		{
+			id: 'ignore_counterattack_3_2',
+			name: 'Ignore_Counterattack_3_2',
+			currentLevel: 0,
+			levelTiers: [
+				{ minLevel: 1, maxLevel: 20,
+					requiredPrerequisiteLevel:  [{
+						id: 'def_3_2',
+						level: 20,
+					}]
+				},
+				{ minLevel: 21, maxLevel: 40,
+					requiredPrerequisiteLevel: [{
+						id: 'def_3_2',
+						level: 40,
+					}]
+				},
+				{ minLevel: 41, maxLevel: 60,
+					requiredPrerequisiteLevel: [{
+						id: 'def_3_2',
+						level: 60,
+					}]
+				},
+				{ minLevel: 61, maxLevel: 80,
+					requiredPrerequisiteLevel: [{
+						id: 'def_3_2',
+						level: 80,
+					}]
+				},
+				{ minLevel: 81, maxLevel: 100,
+					requiredPrerequisiteLevel: [{
+						id: 'def_3_2',
+						level: 100,
+					}]
+				}
+			],
+			position: { x: 945 + xOffset, y: 1040 + yOffset },
+			radius: 50,
+		},
+		{
+			id: 'global_def_3_2',
+			name: 'Global_Def_3_2',
+			currentLevel: 0,
+			levelTiers: [
+				{ minLevel: 1, maxLevel: 10,
+					requiredPrerequisiteLevel:  [
+					{
+						id: 'ignore_dodge_3_2',
+						level: 20,
+					},
+					{
+						id: 'ignore_counterattack_3_2',
+						level: 20,
+					},
+				]
+				},
+				{ minLevel: 11, maxLevel: 20,
+					requiredPrerequisiteLevel:  [
+					{
+						id: 'ignore_dodge_3_2',
+						level: 40,
+					},
+					{
+						id: 'ignore_counterattack_3_2',
+						level: 40,
+					},
+				]
+				},
+				{ minLevel: 21, maxLevel: 30,
+					requiredPrerequisiteLevel:  [
+					{
+						id: 'ignore_dodge_3_2',
+						level: 60,
+					},
+					{
+						id: 'ignore_counterattack_3_2',
+						level: 60,
+					},
+				]
+				},
+				{ minLevel: 31, maxLevel: 40,
+					requiredPrerequisiteLevel:  [
+					{
+						id: 'ignore_dodge_3_2',
+						level: 80,
+					},
+					{
+						id: 'ignore_counterattack_3_2',
+						level: 80,
+					},
+				]
+				},
+				{ minLevel: 41, maxLevel: 50,
+					requiredPrerequisiteLevel:  [
+					{
+						id: 'ignore_dodge_3_2',
+						level: 100,
+					},
+					{
+						id: 'ignore_counterattack_3_2',
+						level: 100,
+					},
+				]
+				},
+			],
+			position: { x: 1135 + xOffset, y: 1025 + yOffset },
+			radius: 35,
+		},
+	]);
+
 	const [modalSkill, setModalSkill] = useState<SkillData | null>(null); // Skill to change level
 	const [isModalOpen, setModalOpen] = useState(false);
 

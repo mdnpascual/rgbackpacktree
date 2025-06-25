@@ -69,6 +69,7 @@ const VanguardTab = () => {
 									levelTiers={skill.levelTiers}
 									onLevelChange={handleClick}
 									id={skill.id}
+									color={skill.color}
 								/>
 							))}
 						</svg>

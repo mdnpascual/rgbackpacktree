@@ -24,6 +24,8 @@ export interface SkillData {
     levelTiers: LevelTier[];
 	position: { x: number; y: number };
 	radius: number;
+	color: string;
+	specialRule?: string
 }
 
 interface SkillProps {
@@ -35,9 +37,18 @@ interface SkillProps {
 	levelTiers: LevelTier[];
 	onLevelChange: (id: string, change: number) => void; // Function to change level
 	id: string; // Skill ID
+	color: string;
 }
 
-const Skill: React.FC<SkillProps> = ({ x, y,r, name, currentLevel, levelTiers, onLevelChange, id }) => {
+const Skill: React.FC<SkillProps> = ({
+	x, y, r,
+	name,
+	currentLevel,
+	levelTiers,
+	onLevelChange,
+	id,
+	color
+}) => {
 	const { skills } = useSkillContext();
 
 	const handleClick = (event: React.MouseEvent<SVGCircleElement>) => {
@@ -57,6 +68,8 @@ const Skill: React.FC<SkillProps> = ({ x, y,r, name, currentLevel, levelTiers, o
 	};
 
 	const canLevelUp = (allSkills: SkillData[]) => {
+		const thisSkill = allSkills.find((skill) => skill.id === id);
+		if (thisSkill && thisSkill.specialRule && !checkSpecialRules(thisSkill, allSkills)) return false;
 		for (const tier of levelTiers) {
 			if (currentLevel >= tier.minLevel && currentLevel < tier.maxLevel) {
 				// Check all required prerequisites for this tier
@@ -75,6 +88,55 @@ const Skill: React.FC<SkillProps> = ({ x, y,r, name, currentLevel, levelTiers, o
 		return false; // No tiers satisfied
 	};
 
+	const checkSpecialRules = (thisSkill: SkillData, allSkills: SkillData[]): Boolean => {
+		const rule = thisSkill.specialRule
+		if (rule === 'firstNode') {
+			const hpSkill = allSkills.find((skill) => skill.id === 'hp')!
+			const attackSkill = allSkills.find((skill) => skill.id === 'attack')!
+			const defenseSkill = allSkills.find((skill) => skill.id === 'defense')!
+
+			if (thisSkill.id === 'attack') {
+				const finalSkillCount = checkFinalSkillCount('final_2', 'final_3', allSkills);
+				return checkConditions(finalSkillCount, [hpSkill, defenseSkill]);
+			}
+			else if (thisSkill.id === 'defense') {
+				const finalSkillCount = checkFinalSkillCount('final_1', 'final_3', allSkills);
+				return checkConditions(finalSkillCount, [hpSkill, attackSkill]);
+			}
+			else if (thisSkill.id === 'hp') {
+				const finalSkillCount = checkFinalSkillCount('final_1', 'final_2', allSkills);
+				return checkConditions(finalSkillCount, [defenseSkill, attackSkill]);
+			}
+			return false
+		}
+		return false;
+	}
+
+	const checkFinalSkillCount = (final1Id: string, final2Id: string, allSkills: SkillData[]) => {
+		const finalSkillCount = Math.min(
+			Math.max(allSkills.find((skill) => skill.id === final1Id)?.currentLevel ?? 0, 0),
+			1
+		) +
+		Math.min(
+			Math.max(allSkills.find((skill) => skill.id === final2Id)?.currentLevel ?? 0, 0),
+			1
+		);
+
+		return finalSkillCount;
+	};
+
+	const checkConditions = (finalSkillCount: number, otherSkills: SkillData[]) => {
+		if (finalSkillCount === 0 && otherSkills.every(skill => skill.currentLevel === 0)) {
+			return true;
+		}
+		if (finalSkillCount === 1 &&
+			((otherSkills[0].currentLevel > 0 && otherSkills[1].currentLevel === 0) ||
+				(otherSkills[0].currentLevel === 0 && otherSkills[1].currentLevel > 0))) {
+			return true;
+		}
+		return finalSkillCount > 1;
+	};
+
 	// Position text above and to the right of the circle at 45 degrees
 	const angle = Math.PI / 4; // 45 degrees in radians
 	const offset = 5; // Additional space outside the circle
@@ -88,8 +150,8 @@ const Skill: React.FC<SkillProps> = ({ x, y,r, name, currentLevel, levelTiers, o
 				cx={x}
 				cy={y}
 				r={r}
-				fill={currentLevel > 0 ? '#0ff' : '#f0f0f0'}
-				stroke="#0ff"
+				fill={currentLevel > 0 ? color : 'grey'}
+				stroke="#grey"
 				onClick={handleClick}
 				style={{ pointerEvents: 'visible' }}
 			/>
@@ -105,8 +167,8 @@ const Skill: React.FC<SkillProps> = ({ x, y,r, name, currentLevel, levelTiers, o
 			<text
 				x={x}
 				y={y + offset}
-				fill="red"
-				fontSize="12"
+				fill="white"
+				fontSize="16"
 				textAnchor="middle"
 			>
 				{name}

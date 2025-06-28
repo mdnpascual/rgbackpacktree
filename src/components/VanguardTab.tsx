@@ -1,15 +1,22 @@
-import React, { useLayoutEffect, useState } from 'react';
+import React, { CSSProperties, useLayoutEffect, useState } from 'react';
 import { TransformWrapper, TransformComponent } from 'react-zoom-pan-pinch';
 import Skill, { SkillData } from './Skill';
 import LevelChangeModal from './LevelChangeModal';
-import { SkillProvider, useSkillContext } from './SkillContext';
-import { VanguardTree } from '../data/VanguardTree';
+import { useSkillContext } from './SkillContext';
+
+const styles: { overlay: CSSProperties } = {
+	overlay: {
+		position: 'fixed',
+		top: 0,
+		left: 0,
+		width: '100vw',
+		height: '100vh',
+		background: 'rgba(0, 0, 0, 0.5)',
+		zIndex: 999
+	},
+};
 
 const VanguardTab = () => {
-	const xOffset = 0;
-	const yOffset = 0;
-	// const [skills, setSkills] = useState<SkillData[]>(VanguardTree(xOffset, yOffset));
-
 	const svgWidth = 1400;
 	const svgHeight = 1400;
 
@@ -46,6 +53,7 @@ const VanguardTab = () => {
 			initialScale={0.5}
 			minScale={0.25}
 			limitToBounds={false}
+			doubleClick={{disabled: true}}
 		>
 			{(setTransform) => {
 				setTimeout(() => {
@@ -67,7 +75,7 @@ const VanguardTab = () => {
 									name={skill.name}
 									currentLevel={skill.currentLevel}
 									levelTiers={skill.levelTiers}
-									onLevelChange={handleClick}
+									onOpenModal={handleClick}
 									id={skill.id}
 									color={skill.color}
 								/>
@@ -75,11 +83,15 @@ const VanguardTab = () => {
 						</svg>
 
 						{isModalOpen && modalSkill && (
-							<LevelChangeModal
-								skillName={modalSkill.name}
-								onClose={() => setModalOpen(false)}
-								onChange={(change) => handleLevelChange(modalSkill.id, change)}
-							/>
+							<>
+								<div style={styles.overlay} onClick={() => setModalOpen(false)} /> {/* Clicking on overlay closes modal */}
+									<LevelChangeModal
+										skillName={modalSkill.name}
+										onClose={() => setModalOpen(false)}
+										onChange={change => handleLevelChange(modalSkill.id, change)}
+										skillData={modalSkill}
+								/>
+							</>
 						)}
 					</div>
 				</TransformComponent>

@@ -3,6 +3,7 @@ import { CssBaseline, ThemeProvider, createTheme, AppBar, Tabs, Tab, Toolbar } f
 import { BrowserRouter as Router, Route, Routes, useNavigate, useLocation, Navigate } from 'react-router-dom';
 import BackpackTree from './components/BackpackTree';
 import About from './components/About';
+import { GlobalSkillProvider } from './components/GlobalSkillContext';
 
 const theme = createTheme({
 	palette: {
@@ -25,12 +26,14 @@ const App = () => {
 		<ThemeProvider theme={theme}>
 			<CssBaseline />
 			<Router basename="/rgbackpacktree">
-				<NavigationTabs />
-				<Routes>
-					<Route path="/" element={<BackpackTree />} />
-					<Route path="/about" element={<About />} />
-					<Route path="*" element={<Navigate to="/" />} /> {/* Redirects unknown routes to home */}
-				</Routes>
+				<GlobalSkillProvider>
+					<NavigationTabs />
+					<Routes>
+						<Route path="/" element={<BackpackTree />} />
+						<Route path="/about" element={<About />} />
+						<Route path="*" element={<Navigate to="/" />} /> {/* Redirects unknown routes to home */}
+					</Routes>
+				</GlobalSkillProvider>
 			</Router>
 		</ThemeProvider>
 	);

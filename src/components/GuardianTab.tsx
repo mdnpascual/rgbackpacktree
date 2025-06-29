@@ -1,12 +1,11 @@
-import React from 'react';
-import { Box, Typography } from '@mui/material';
+import SkillTree from './SkillTree';
+import { useSkillContext } from './SkillContext';
 
 const GuardianTab = () => {
+	const { skills } = useSkillContext();
+
 	return (
-		<Box>
-			<Typography variant="h5">Guardian Section Content</Typography>
-			{/* Add more content related to Guardian here */}
-		</Box>
+		<SkillTree initialSkills={skills} />
 	);
 };
 

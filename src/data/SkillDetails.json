@@ -7335,7 +7335,7 @@
         "cost": 25625.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 0.0,
@@ -7344,7 +7344,7 @@
         "cost": 0.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 0.04,
@@ -7353,7 +7353,7 @@
         "cost": 20.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 0.08,
@@ -7362,7 +7362,7 @@
         "cost": 21.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 0.12,
@@ -7371,7 +7371,7 @@
         "cost": 22.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 0.16,
@@ -7380,7 +7380,7 @@
         "cost": 23.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 0.2,
@@ -7389,7 +7389,7 @@
         "cost": 24.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 0.24,
@@ -7398,7 +7398,7 @@
         "cost": 25.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 0.28,
@@ -7407,7 +7407,7 @@
         "cost": 26.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 0.32,
@@ -7416,7 +7416,7 @@
         "cost": 27.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 0.36,
@@ -7425,7 +7425,7 @@
         "cost": 28.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 0.4,
@@ -7434,7 +7434,7 @@
         "cost": 29.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 0.44,
@@ -7443,7 +7443,7 @@
         "cost": 30.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 0.48,
@@ -7452,7 +7452,7 @@
         "cost": 31.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 0.52,
@@ -7461,7 +7461,7 @@
         "cost": 32.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 0.56,
@@ -7470,7 +7470,7 @@
         "cost": 33.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 0.6,
@@ -7479,7 +7479,7 @@
         "cost": 34.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 0.64,
@@ -7488,7 +7488,7 @@
         "cost": 35.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 0.68,
@@ -7497,7 +7497,7 @@
         "cost": 36.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 0.72,
@@ -7506,7 +7506,7 @@
         "cost": 37.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 0.76,
@@ -7515,7 +7515,7 @@
         "cost": 38.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 0.8,
@@ -7524,7 +7524,7 @@
         "cost": 39.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 0.84,
@@ -7533,7 +7533,7 @@
         "cost": 40.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 0.88,
@@ -7542,7 +7542,7 @@
         "cost": 42.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 0.92,
@@ -7551,7 +7551,7 @@
         "cost": 44.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 0.96,
@@ -7560,7 +7560,7 @@
         "cost": 46.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 1.0,
@@ -7569,7 +7569,7 @@
         "cost": 48.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 1.04,
@@ -7578,7 +7578,7 @@
         "cost": 50.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 1.08,
@@ -7587,7 +7587,7 @@
         "cost": 52.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 1.12,
@@ -7596,7 +7596,7 @@
         "cost": 54.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 1.16,
@@ -7605,7 +7605,7 @@
         "cost": 56.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 1.2,
@@ -7614,7 +7614,7 @@
         "cost": 58.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 1.24,
@@ -7623,7 +7623,7 @@
         "cost": 60.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 1.28,
@@ -7632,7 +7632,7 @@
         "cost": 63.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 1.32,
@@ -7641,7 +7641,7 @@
         "cost": 66.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 1.36,
@@ -7650,7 +7650,7 @@
         "cost": 69.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 1.4,
@@ -7659,7 +7659,7 @@
         "cost": 72.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 1.44,
@@ -7668,7 +7668,7 @@
         "cost": 75.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 1.48,
@@ -7677,7 +7677,7 @@
         "cost": 78.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 1.52,
@@ -7686,7 +7686,7 @@
         "cost": 81.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 1.56,
@@ -7695,7 +7695,7 @@
         "cost": 85.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 1.6,
@@ -7704,7 +7704,7 @@
         "cost": 89.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 1.64,
@@ -7713,7 +7713,7 @@
         "cost": 93.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 1.68,
@@ -7722,7 +7722,7 @@
         "cost": 97.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 1.72,
@@ -7731,7 +7731,7 @@
         "cost": 101.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 1.76,
@@ -7740,7 +7740,7 @@
         "cost": 106.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 1.8,
@@ -7749,7 +7749,7 @@
         "cost": 111.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 1.84,
@@ -7758,7 +7758,7 @@
         "cost": 116.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 1.88,
@@ -7767,7 +7767,7 @@
         "cost": 121.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 1.92,
@@ -7776,7 +7776,7 @@
         "cost": 127.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 1.96,
@@ -7785,7 +7785,7 @@
         "cost": 133.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 2.0,
@@ -7794,7 +7794,7 @@
         "cost": 139.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 2.04,
@@ -7803,7 +7803,7 @@
         "cost": 145.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 2.08,
@@ -7812,7 +7812,7 @@
         "cost": 152.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 2.12,
@@ -7821,7 +7821,7 @@
         "cost": 159.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 2.16,
@@ -7830,7 +7830,7 @@
         "cost": 166.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 2.2,
@@ -7839,7 +7839,7 @@
         "cost": 174.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 2.24,
@@ -7848,7 +7848,7 @@
         "cost": 182.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 2.28,
@@ -7857,7 +7857,7 @@
         "cost": 191.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 2.32,
@@ -7866,7 +7866,7 @@
         "cost": 200.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 2.36,
@@ -7875,7 +7875,7 @@
         "cost": 210.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 2.4,
@@ -7884,7 +7884,7 @@
         "cost": 220.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 2.44,
@@ -7893,7 +7893,7 @@
         "cost": 231.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 2.48,
@@ -7902,7 +7902,7 @@
         "cost": 242.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 2.52,
@@ -7911,7 +7911,7 @@
         "cost": 254.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 2.56,
@@ -7920,7 +7920,7 @@
         "cost": 266.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 2.6,
@@ -7929,7 +7929,7 @@
         "cost": 279.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 2.64,
@@ -7938,7 +7938,7 @@
         "cost": 292.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 2.68,
@@ -7947,7 +7947,7 @@
         "cost": 306.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 2.72,
@@ -7956,7 +7956,7 @@
         "cost": 321.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 2.76,
@@ -7965,7 +7965,7 @@
         "cost": 337.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 2.8,
@@ -7974,7 +7974,7 @@
         "cost": 353.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 2.84,
@@ -7983,7 +7983,7 @@
         "cost": 370.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 2.88,
@@ -7992,7 +7992,7 @@
         "cost": 388.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 2.92,
@@ -8001,7 +8001,7 @@
         "cost": 407.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 2.96,
@@ -8010,7 +8010,7 @@
         "cost": 427.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 3.0,
@@ -8019,7 +8019,7 @@
         "cost": 448.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 3.04,
@@ -8028,7 +8028,7 @@
         "cost": 470.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 3.08,
@@ -8037,7 +8037,7 @@
         "cost": 493.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 3.12,
@@ -8046,7 +8046,7 @@
         "cost": 517.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 3.16,
@@ -8055,7 +8055,7 @@
         "cost": 542.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 3.2,
@@ -8064,7 +8064,7 @@
         "cost": 569.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 3.24,
@@ -8073,7 +8073,7 @@
         "cost": 597.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 3.28,
@@ -8082,7 +8082,7 @@
         "cost": 626.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 3.32,
@@ -8091,7 +8091,7 @@
         "cost": 657.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 3.36,
@@ -8100,7 +8100,7 @@
         "cost": 689.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 3.4,
@@ -8109,7 +8109,7 @@
         "cost": 723.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 3.44,
@@ -8118,7 +8118,7 @@
         "cost": 759.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 3.48,
@@ -8127,7 +8127,7 @@
         "cost": 796.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 3.52,
@@ -8136,7 +8136,7 @@
         "cost": 835.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 3.56,
@@ -8145,7 +8145,7 @@
         "cost": 876.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 3.6,
@@ -8154,7 +8154,7 @@
         "cost": 919.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 3.64,
@@ -8163,7 +8163,7 @@
         "cost": 964.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 3.68,
@@ -8172,7 +8172,7 @@
         "cost": 1012.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 3.72,
@@ -8181,7 +8181,7 @@
         "cost": 1062.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 3.76,
@@ -8190,7 +8190,7 @@
         "cost": 1115.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 3.8,
@@ -8199,7 +8199,7 @@
         "cost": 1170.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 3.84,
@@ -8208,7 +8208,7 @@
         "cost": 1228.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 3.88,
@@ -8217,7 +8217,7 @@
         "cost": 1289.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 3.92,
@@ -8226,7 +8226,7 @@
         "cost": 1353.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 3.96,
@@ -8235,7 +8235,7 @@
         "cost": 1420.0
     },
     {
-        "id": ["critical_hit_1_1", "critical_hit_2_2"],
+        "id": ["skill_critical_1_1", "skill_critical_2_2"],
         "name": "Skill Crit",
         "description": "Dawn Bringer & Valkyrie Final Damage Boost",
         "total_value": 4.0,
@@ -13248,7 +13248,7 @@
         "cost": 1491.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 0.0,
@@ -13257,7 +13257,7 @@
         "cost": 0.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 0.04,
@@ -13266,7 +13266,7 @@
         "cost": 20.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 0.08,
@@ -13275,7 +13275,7 @@
         "cost": 21.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 0.12,
@@ -13284,7 +13284,7 @@
         "cost": 22.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 0.16,
@@ -13293,7 +13293,7 @@
         "cost": 23.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 0.2,
@@ -13302,7 +13302,7 @@
         "cost": 24.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 0.24,
@@ -13311,7 +13311,7 @@
         "cost": 25.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 0.28,
@@ -13320,7 +13320,7 @@
         "cost": 26.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 0.32,
@@ -13329,7 +13329,7 @@
         "cost": 27.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 0.36,
@@ -13338,7 +13338,7 @@
         "cost": 28.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 0.4,
@@ -13347,7 +13347,7 @@
         "cost": 29.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 0.44,
@@ -13356,7 +13356,7 @@
         "cost": 30.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 0.48,
@@ -13365,7 +13365,7 @@
         "cost": 31.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 0.52,
@@ -13374,7 +13374,7 @@
         "cost": 32.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 0.56,
@@ -13383,7 +13383,7 @@
         "cost": 33.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 0.6,
@@ -13392,7 +13392,7 @@
         "cost": 34.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 0.64,
@@ -13401,7 +13401,7 @@
         "cost": 35.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 0.68,
@@ -13410,7 +13410,7 @@
         "cost": 36.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 0.72,
@@ -13419,7 +13419,7 @@
         "cost": 37.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 0.76,
@@ -13428,7 +13428,7 @@
         "cost": 38.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 0.8,
@@ -13437,7 +13437,7 @@
         "cost": 39.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 0.84,
@@ -13446,7 +13446,7 @@
         "cost": 40.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 0.88,
@@ -13455,7 +13455,7 @@
         "cost": 42.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 0.92,
@@ -13464,7 +13464,7 @@
         "cost": 44.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 0.96,
@@ -13473,7 +13473,7 @@
         "cost": 46.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 1.0,
@@ -13482,7 +13482,7 @@
         "cost": 48.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 1.04,
@@ -13491,7 +13491,7 @@
         "cost": 50.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 1.08,
@@ -13500,7 +13500,7 @@
         "cost": 52.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 1.12,
@@ -13509,7 +13509,7 @@
         "cost": 54.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 1.16,
@@ -13518,7 +13518,7 @@
         "cost": 56.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 1.2,
@@ -13527,7 +13527,7 @@
         "cost": 58.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 1.24,
@@ -13536,7 +13536,7 @@
         "cost": 60.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 1.28,
@@ -13545,7 +13545,7 @@
         "cost": 63.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 1.32,
@@ -13554,7 +13554,7 @@
         "cost": 66.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 1.36,
@@ -13563,7 +13563,7 @@
         "cost": 69.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 1.4,
@@ -13572,7 +13572,7 @@
         "cost": 72.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 1.44,
@@ -13581,7 +13581,7 @@
         "cost": 75.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 1.48,
@@ -13590,7 +13590,7 @@
         "cost": 78.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 1.52,
@@ -13599,7 +13599,7 @@
         "cost": 81.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 1.56,
@@ -13608,7 +13608,7 @@
         "cost": 85.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 1.6,
@@ -13617,7 +13617,7 @@
         "cost": 89.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 1.64,
@@ -13626,7 +13626,7 @@
         "cost": 93.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 1.68,
@@ -13635,7 +13635,7 @@
         "cost": 97.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 1.72,
@@ -13644,7 +13644,7 @@
         "cost": 101.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 1.76,
@@ -13653,7 +13653,7 @@
         "cost": 106.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 1.8,
@@ -13662,7 +13662,7 @@
         "cost": 111.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 1.84,
@@ -13671,7 +13671,7 @@
         "cost": 116.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 1.88,
@@ -13680,7 +13680,7 @@
         "cost": 121.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 1.92,
@@ -13689,7 +13689,7 @@
         "cost": 127.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 1.96,
@@ -13698,7 +13698,7 @@
         "cost": 133.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 2.0,
@@ -13707,7 +13707,7 @@
         "cost": 139.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 2.04,
@@ -13716,7 +13716,7 @@
         "cost": 145.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 2.08,
@@ -13725,7 +13725,7 @@
         "cost": 152.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 2.12,
@@ -13734,7 +13734,7 @@
         "cost": 159.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 2.16,
@@ -13743,7 +13743,7 @@
         "cost": 166.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 2.2,
@@ -13752,7 +13752,7 @@
         "cost": 174.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 2.24,
@@ -13761,7 +13761,7 @@
         "cost": 182.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 2.28,
@@ -13770,7 +13770,7 @@
         "cost": 191.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 2.32,
@@ -13779,7 +13779,7 @@
         "cost": 200.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 2.36,
@@ -13788,7 +13788,7 @@
         "cost": 210.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 2.4,
@@ -13797,7 +13797,7 @@
         "cost": 220.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 2.44,
@@ -13806,7 +13806,7 @@
         "cost": 231.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 2.48,
@@ -13815,7 +13815,7 @@
         "cost": 242.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 2.52,
@@ -13824,7 +13824,7 @@
         "cost": 254.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 2.56,
@@ -13833,7 +13833,7 @@
         "cost": 266.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 2.6,
@@ -13842,7 +13842,7 @@
         "cost": 279.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 2.64,
@@ -13851,7 +13851,7 @@
         "cost": 292.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 2.68,
@@ -13860,7 +13860,7 @@
         "cost": 306.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 2.72,
@@ -13869,7 +13869,7 @@
         "cost": 321.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 2.76,
@@ -13878,7 +13878,7 @@
         "cost": 337.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 2.8,
@@ -13887,7 +13887,7 @@
         "cost": 353.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 2.84,
@@ -13896,7 +13896,7 @@
         "cost": 370.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 2.88,
@@ -13905,7 +13905,7 @@
         "cost": 388.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 2.92,
@@ -13914,7 +13914,7 @@
         "cost": 407.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 2.96,
@@ -13923,7 +13923,7 @@
         "cost": 427.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 3.0,
@@ -13932,7 +13932,7 @@
         "cost": 448.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 3.04,
@@ -13941,7 +13941,7 @@
         "cost": 470.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 3.08,
@@ -13950,7 +13950,7 @@
         "cost": 493.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 3.12,
@@ -13959,7 +13959,7 @@
         "cost": 517.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 3.16,
@@ -13968,7 +13968,7 @@
         "cost": 542.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 3.2,
@@ -13977,7 +13977,7 @@
         "cost": 569.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 3.24,
@@ -13986,7 +13986,7 @@
         "cost": 597.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 3.28,
@@ -13995,7 +13995,7 @@
         "cost": 626.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 3.32,
@@ -14004,7 +14004,7 @@
         "cost": 657.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 3.36,
@@ -14013,7 +14013,7 @@
         "cost": 689.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 3.4,
@@ -14022,7 +14022,7 @@
         "cost": 723.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 3.44,
@@ -14031,7 +14031,7 @@
         "cost": 759.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 3.48,
@@ -14040,7 +14040,7 @@
         "cost": 796.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 3.52,
@@ -14049,7 +14049,7 @@
         "cost": 835.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 3.56,
@@ -14058,7 +14058,7 @@
         "cost": 876.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 3.6,
@@ -14067,7 +14067,7 @@
         "cost": 919.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 3.64,
@@ -14076,7 +14076,7 @@
         "cost": 964.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 3.68,
@@ -14085,7 +14085,7 @@
         "cost": 1012.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 3.72,
@@ -14094,7 +14094,7 @@
         "cost": 1062.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 3.76,
@@ -14103,7 +14103,7 @@
         "cost": 1115.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 3.8,
@@ -14112,7 +14112,7 @@
         "cost": 1170.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 3.84,
@@ -14121,7 +14121,7 @@
         "cost": 1228.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 3.88,
@@ -14130,7 +14130,7 @@
         "cost": 1289.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 3.92,
@@ -14139,7 +14139,7 @@
         "cost": 1353.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 3.96,
@@ -14148,7 +14148,7 @@
         "cost": 1420.0
     },
     {
-        "id": ["skill_crit_2_1", "skill_crit_1_1"],
+        "id": ["skill_crit_res_2_1", "skill_crit_res_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 4.0,

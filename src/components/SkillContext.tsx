@@ -20,13 +20,21 @@ interface SkillContextProps {
 
 const SkillContext = createContext<SkillContextProps | undefined>(undefined);
 
-// Combine state management into a single provider
-export const SkillProvider: React.FC<{ initialSkills: SkillData[], children: ReactNode }> = ({ initialSkills, children }) => {
-	const [skills, setSkills] = useState<SkillData[]>(initialSkills); // Initialize with the desired skill data
-	const [loadedSkillsData] = useState<SkillDataDetails[]>(skillsData); // Load skillsData once
+export const SkillProvider: React.FC<{
+	initialSkills: SkillData[],
+	globalSkillsUpdater: (skills: SkillData[]) => void, children: ReactNode
+}> = ({ initialSkills, globalSkillsUpdater, children }) => {
+	const [skills, setSkills] = useState<SkillData[]>(initialSkills);
+	const [loadedSkillsData] = useState<SkillDataDetails[]>(skillsData);
+
+	// Update the global skills whenever local skills change
+	const handleSetSkills = (newSkills: SkillData[]) => {
+		setSkills(newSkills);
+		globalSkillsUpdater(newSkills); // Call the passed function to update global skills
+	};
 
 	return (
-		<SkillContext.Provider value={{ skills, setSkills, skillsData: loadedSkillsData }}>
+		<SkillContext.Provider value={{ skills, setSkills: handleSetSkills, skillsData: loadedSkillsData }}>
 			{children}
 		</SkillContext.Provider>
 	);

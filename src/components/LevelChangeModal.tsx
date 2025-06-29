@@ -2,12 +2,15 @@ import React, { useEffect, useState, useRef } from 'react';
 import { LevelTier, SkillData } from './Skill';
 import { SkillDataDetails, useSkillContext } from './SkillContext';
 import { CSSProperties } from '@mui/material';
+import { getNextSkillDataDetails, getSkillDataDetails } from './BackpackTree';
 
 interface LevelChangeModalProps {
 	skillName: string;
 	onClose: () => void;
 	onChange: (change: number) => void;
 	skillData: SkillData;
+	availableBudget: number;
+	setBudget: (newBudget: number) => void;
 }
 
 const textStyle: CSSProperties = { textAlign: 'center', color: 'black' };
@@ -16,16 +19,18 @@ const getCurrentSkill = (thisSkill: SkillData, allSkills: SkillData[]) => {
 	return allSkills.find((skill) => skill.id === thisSkill.id)!;
 }
 
-const getSkillDataDetails = (thisSkill: SkillData, skillsData: SkillDataDetails[]) => {
-	return skillsData.find(skill => skill.id.includes(thisSkill.id) && skill.level === thisSkill.currentLevel);
-}
-
-const getNextSkillDataDetails = (thisSkill: SkillData, skillsData: SkillDataDetails[]) => {
-	return skillsData.find(skill => skill.id.includes(thisSkill.id) && skill.level === thisSkill.currentLevel + 1);
-}
-
-const canLevelUp = (thisSkill: SkillData, allSkills: SkillData[]) => {
+const canLevelUp = (
+	thisSkill: SkillData,
+	allSkills: SkillData[],
+	allSkillDetails: SkillDataDetails[],
+	availableBudget: number
+): boolean => {
 	if (thisSkill && thisSkill.specialRule && !checkSpecialRules(thisSkill, allSkills)) return false;
+
+	const nextSkillDetails = getNextSkillDataDetails(thisSkill, allSkillDetails);
+	if (!nextSkillDetails || nextSkillDetails.cost > availableBudget) {
+		return false; // Not enough budget or no next skill available
+	}
 
 	for (const tier of thisSkill.levelTiers) {
 		if (thisSkill.currentLevel + 1 >= tier.minLevel && thisSkill.currentLevel < tier.maxLevel) {
@@ -39,12 +44,7 @@ const canLevelUp = (thisSkill: SkillData, allSkills: SkillData[]) => {
 			});
 		}
 		if (thisSkill.currentLevel >= tier.maxLevel) {
-			const tierIndex = thisSkill.levelTiers.findIndex((thisTier) => thisTier === tier)
-			if (tierIndex > -1) {
-				continue;
-			} else {
-				return false; // Already at max level for this tier
-			}
+			return false; // Already at max level for this tier
 		}
 	}
 	return false; // No tiers satisfied
@@ -103,7 +103,14 @@ const checkConditions = (finalSkillCount: number, otherSkills: SkillData[]) => {
 	return finalSkillCount > 1;
 };
 
-const LevelChangeModal: React.FC<LevelChangeModalProps> = ({ skillName, onClose, onChange, skillData }) => {
+const LevelChangeModal: React.FC<LevelChangeModalProps> = ({
+	skillName,
+	onClose,
+	onChange,
+	skillData,
+	availableBudget,
+	setBudget
+}) => {
 	const { skills, skillsData } = useSkillContext();
 	const [isLevelUpEnabled, setIsLevelUpEnabled] = useState(false);
 	const [skillDetails, setSkillDetails] = useState<SkillDataDetails | undefined>(undefined);
@@ -116,9 +123,9 @@ const LevelChangeModal: React.FC<LevelChangeModalProps> = ({ skillName, onClose,
 		setSkillDetails(getSkillDataDetails(currentSkill, skillsData));
 		nextSetSkillDetails(getNextSkillDataDetails(currentSkill, skillsData));
 
-		const enabled = canLevelUp(currentSkill, skills);
+		const enabled = canLevelUp(currentSkill, skills, skillsData, availableBudget);
 		setIsLevelUpEnabled(enabled);
-	}, [skills, skillData, skillsData]);
+	}, [skills, skillData, skillsData, availableBudget]);
 
 	const handleClickOutside = (event: MouseEvent) => {
 		if (modalRef.current && !modalRef.current.contains(event.target as Node)) {
@@ -139,25 +146,68 @@ const LevelChangeModal: React.FC<LevelChangeModalProps> = ({ skillName, onClose,
 			: 0;
 	};
 
+	const deductAndUpdate = (availableBudget: number, cost: number) => {
+		setBudget(availableBudget - cost);
+		onChange(1);
+		return availableBudget - cost;
+	}
+
+	const handleLevelUp = () => {
+		if (nextSkillDetails) {
+			deductAndUpdate(availableBudget, nextSkillDetails.cost);
+		}
+	};
+
 	const handleLevelUpMax = () => {
 		const currentSkill = getCurrentSkill(skillData, skills);
 		let currentLevel = currentSkill.currentLevel;
 		const maxLevelCap = 100;
+		let localBudget = availableBudget
 
 		let levelUpCount = 0;
 
-		while (canLevelUp({ ...currentSkill, currentLevel: currentLevel + 1 }, skills) && levelUpCount < maxLevelCap) {
+		while (canLevelUp({ ...currentSkill, currentLevel: currentLevel }, skills, skillsData, localBudget) && levelUpCount < maxLevelCap) {
 			levelUpCount++;
 			currentLevel++;
+			const skillDetails = getSkillDataDetails({ ...currentSkill, currentLevel: currentLevel }, skillsData)
+			if (skillDetails) {
+				localBudget = deductAndUpdate(localBudget, skillDetails.cost);
+			}
 		}
 
-		// Apply the level up change
-		onChange(levelUpCount + 1);
+		onChange(levelUpCount);
+	};
+
+	const handleLevelDown = () => {
+		const currentSkill = getCurrentSkill(skillData, skills);
+		if (currentSkill.currentLevel > 0) {
+			const currentLevel = currentSkill.currentLevel;
+			// Get the cost for the current level
+			const skillDetails = getSkillDataDetails({ ...currentSkill, currentLevel }, skillsData);
+			if (skillDetails) {
+				// Refund the cost of leveling down
+				setBudget(availableBudget + skillDetails.cost); // Refund previous level cost
+			}
+			onChange(-1); // Reduce level by 1
+		}
 	};
 
 	const handleLevelDownMax = () => {
 		const currentSkill = getCurrentSkill(skillData, skills);
-		onChange(-currentSkill.currentLevel); // Bring down the level to 0
+		// Refund cost for all levels down to 0
+		const currentLevel = currentSkill.currentLevel;
+		let localBudget = availableBudget
+
+		// Refund for each level down
+		for (let level = currentLevel; level > 0; level--) {
+			const skillDetails = getSkillDataDetails({ ...currentSkill, currentLevel: level }, skillsData);
+			if (skillDetails) {
+				setBudget(localBudget + skillDetails.cost);
+				localBudget += skillDetails.cost;
+			}
+		}
+
+		onChange(-currentLevel); // Set level to 0
 	};
 
 	if (!skillDetails) {
@@ -166,7 +216,7 @@ const LevelChangeModal: React.FC<LevelChangeModalProps> = ({ skillName, onClose,
 
 	const currentSkill = getCurrentSkill(skillData, skills);
 	const maxLevel = getMaxLevel(currentSkill.levelTiers);
-	const totalValuePercentage = (skillDetails.total_value / skillDetails.value) * 100;
+	const totalValuePercentage = skillDetails.total_value * 100;
 	return (
 		<div
 			ref={modalRef}
@@ -187,12 +237,12 @@ const LevelChangeModal: React.FC<LevelChangeModalProps> = ({ skillName, onClose,
 				Lvl. {currentSkill.currentLevel} / {maxLevel}
 			</h3>
 			<p style={textStyle}>
-				{skillDetails.description} {totalValuePercentage.toFixed(2)}%
+				{skillDetails.description} {totalValuePercentage}%
 			</p>
 
 			{nextSkillDetails ? (
 				<>
-					<p style={textStyle}>Cost: {nextSkillDetails.cost}</p>
+					<p style={{...textStyle, color: availableBudget >= nextSkillDetails.cost ? 'green' : 'red'}}>Cost: {nextSkillDetails.cost}</p>
 				</>
 			) : (
 				<>
@@ -203,7 +253,7 @@ const LevelChangeModal: React.FC<LevelChangeModalProps> = ({ skillName, onClose,
 			{isLevelUpEnabled ? (
 				<>
 					<div style={{ margin: '5px 0', display: 'flex', justifyContent: 'center' }}>
-						<button onClick={() => onChange(1)} style={{ margin: '0 5px' }}>Level Up</button>
+						<button onClick={handleLevelUp} style={{ margin: '0 5px' }}>Level Up</button>
 						<button onClick={handleLevelUpMax} style={{ margin: '0 5px' }}>Max Level Up</button>
 					</div>
 				</>
@@ -215,7 +265,7 @@ const LevelChangeModal: React.FC<LevelChangeModalProps> = ({ skillName, onClose,
 
 			{currentSkill.currentLevel > 0 && (
 				<div style={{ margin: '5px 0', display: 'flex', justifyContent: 'center' }}>
-					<button onClick={() => onChange(-1)} style={{ margin: '0 5px' }}>Level Down</button>
+					<button onClick={handleLevelDown} style={{ margin: '0 5px' }}>Level Down</button>
 					<button onClick={handleLevelDownMax} style={{ margin: '0 5px' }}>Level Down Max</button>
 				</div>
 			)}

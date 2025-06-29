@@ -44,7 +44,7 @@ const canLevelUp = (
 			});
 		}
 		if (thisSkill.currentLevel >= tier.maxLevel) {
-			return false; // Already at max level for this tier
+			continue;
 		}
 	}
 	return false; // No tiers satisfied

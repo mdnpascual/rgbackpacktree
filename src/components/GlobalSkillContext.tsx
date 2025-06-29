@@ -21,7 +21,7 @@ export const GlobalSkillProvider: React.FC<{ children: ReactNode }> = ({ childre
 			"cannon": CannonTree(0,0)
 		}
 	);
-	const [budget, setBudget] = useState<number>(0); // Initial budget
+	const [budget, setBudget] = useState<number>(4_126_878); // Initial budget
 
 	const updateSkills = (tab: string, newSkills: SkillData[]) => {
 		setSkills((prevSkills) => ({

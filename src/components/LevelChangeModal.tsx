@@ -59,11 +59,11 @@ const checkSpecialRules = (thisSkill: SkillData, allSkills: SkillData[]): Boolea
 
 		if (thisSkill.id === 'attack') {
 			const finalSkillCount = checkFinalSkillCount(allSkills);
-			return checkConditions(finalSkillCount, [hpSkill, defenseSkill]);
+			return checkConditions(finalSkillCount, attackSkill, [hpSkill, defenseSkill]);
 		}
 		else if (thisSkill.id === 'defense') {
 			const finalSkillCount = checkFinalSkillCount(allSkills);
-			return checkConditions(finalSkillCount, [hpSkill, attackSkill]);
+			return checkConditions(finalSkillCount, defenseSkill,  [hpSkill, attackSkill]);
 		}
 		else if (thisSkill.id === 'hp') {
 			const finalSkillCount = checkFinalSkillCount(allSkills);
@@ -96,8 +96,12 @@ const checkConditions = (finalSkillCount: number, otherSkills: SkillData[]) => {
 		return true;
 	}
 	if (finalSkillCount === 1 &&
-		((otherSkills[0].currentLevel > 0 && otherSkills[1].currentLevel === 0) ||
-			(otherSkills[0].currentLevel === 0 && otherSkills[1].currentLevel > 0))) {
+			(
+				(thisSkill.currentLevel > 0 && otherSkills.every((other) => other.currentLevel === 0)) ||
+				((otherSkills[0].currentLevel > 0 && otherSkills[1].currentLevel === 0) ||
+				(otherSkills[0].currentLevel === 0 && otherSkills[1].currentLevel > 0))
+			)
+		) {
 		return true;
 	}
 	return finalSkillCount > 1;

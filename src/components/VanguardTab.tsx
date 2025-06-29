@@ -58,7 +58,7 @@ const VanguardTab = () => {
 			{(setTransform) => {
 				setTimeout(() => {
 					const scaleWidth = dimensions.width * 0.65 / svgWidth;
-					const scaleHeight = dimensions.height / svgHeight;
+					const scaleHeight = dimensions.height * 0.85 / svgHeight;
 					setTransform.setTransform(0,0, Math.min(scaleWidth, scaleHeight))
 				}, 400);
 

@@ -127,31 +127,31 @@ export const VanguardTree = (xOffset: number, yOffset: number) => [
 		name: 'Attack_3_1',
 		currentLevel: 0,
 		levelTiers: [
-			{ minLevel: 0, maxLevel: 10,
+			{ minLevel: 0, maxLevel: 20,
 				requiredPrerequisiteLevel:  [{
 					id: 'hp',
 					level: 20,
 				}]
 			},
-			{ minLevel: 11, maxLevel: 20,
+			{ minLevel: 21, maxLevel: 40,
 				requiredPrerequisiteLevel: [{
 					id: 'hp',
 					level: 40,
 				}]
 			},
-			{ minLevel: 21, maxLevel: 30,
+			{ minLevel: 41, maxLevel: 60,
 				requiredPrerequisiteLevel: [{
 					id: 'hp',
 					level: 60,
 				}]
 			},
-			{ minLevel: 31, maxLevel: 40,
+			{ minLevel: 61, maxLevel: 80,
 				requiredPrerequisiteLevel: [{
 					id: 'hp',
 					level: 80,
 				}]
 			},
-			{ minLevel: 41, maxLevel: 50,
+			{ minLevel: 81, maxLevel: 100,
 				requiredPrerequisiteLevel: [{
 					id: 'hp',
 					level: 100,
@@ -317,31 +317,31 @@ export const VanguardTree = (xOffset: number, yOffset: number) => [
 		name: 'HP_1_1',
 		currentLevel: 0,
 		levelTiers: [
-			{ minLevel: 0, maxLevel: 10,
+			{ minLevel: 0, maxLevel: 20,
 				requiredPrerequisiteLevel:  [{
 					id: 'attack',
 					level: 20,
 				}]
 			},
-			{ minLevel: 11, maxLevel: 20,
+			{ minLevel: 21, maxLevel: 40,
 				requiredPrerequisiteLevel: [{
 					id: 'attack',
 					level: 40,
 				}]
 			},
-			{ minLevel: 21, maxLevel: 30,
+			{ minLevel: 41, maxLevel: 60,
 				requiredPrerequisiteLevel: [{
 					id: 'attack',
 					level: 60,
 				}]
 			},
-			{ minLevel: 31, maxLevel: 40,
+			{ minLevel: 61, maxLevel: 80,
 				requiredPrerequisiteLevel: [{
 					id: 'attack',
 					level: 80,
 				}]
 			},
-			{ minLevel: 41, maxLevel: 50,
+			{ minLevel: 81, maxLevel: 100,
 				requiredPrerequisiteLevel: [{
 					id: 'attack',
 					level: 100,
@@ -507,31 +507,31 @@ export const VanguardTree = (xOffset: number, yOffset: number) => [
 		name: 'HP_2_1',
 		currentLevel: 0,
 		levelTiers: [
-			{ minLevel: 0, maxLevel: 10,
+			{ minLevel: 0, maxLevel: 20,
 				requiredPrerequisiteLevel:  [{
 					id: 'defense',
 					level: 20,
 				}]
 			},
-			{ minLevel: 11, maxLevel: 20,
+			{ minLevel: 21, maxLevel: 40,
 				requiredPrerequisiteLevel: [{
 					id: 'defense',
 					level: 40,
 				}]
 			},
-			{ minLevel: 21, maxLevel: 30,
+			{ minLevel: 41, maxLevel: 60,
 				requiredPrerequisiteLevel: [{
 					id: 'defense',
 					level: 60,
 				}]
 			},
-			{ minLevel: 31, maxLevel: 40,
+			{ minLevel: 61, maxLevel: 80,
 				requiredPrerequisiteLevel: [{
 					id: 'defense',
 					level: 80,
 				}]
 			},
-			{ minLevel: 41, maxLevel: 50,
+			{ minLevel: 81, maxLevel: 100,
 				requiredPrerequisiteLevel: [{
 					id: 'defense',
 					level: 100,
@@ -697,31 +697,31 @@ export const VanguardTree = (xOffset: number, yOffset: number) => [
 		name: 'Def_3_2',
 		currentLevel: 0,
 		levelTiers: [
-			{ minLevel: 0, maxLevel: 10,
+			{ minLevel: 0, maxLevel: 20,
 				requiredPrerequisiteLevel:  [{
 					id: 'hp',
 					level: 20,
 				}]
 			},
-			{ minLevel: 11, maxLevel: 20,
+			{ minLevel: 21, maxLevel: 40,
 				requiredPrerequisiteLevel: [{
 					id: 'hp',
 					level: 40,
 				}]
 			},
-			{ minLevel: 21, maxLevel: 30,
+			{ minLevel: 41, maxLevel: 60,
 				requiredPrerequisiteLevel: [{
 					id: 'hp',
 					level: 60,
 				}]
 			},
-			{ minLevel: 31, maxLevel: 40,
+			{ minLevel: 61, maxLevel: 80,
 				requiredPrerequisiteLevel: [{
 					id: 'hp',
 					level: 80,
 				}]
 			},
-			{ minLevel: 41, maxLevel: 50,
+			{ minLevel: 81, maxLevel: 100,
 				requiredPrerequisiteLevel: [{
 					id: 'hp',
 					level: 100,
@@ -887,33 +887,33 @@ export const VanguardTree = (xOffset: number, yOffset: number) => [
 		name: 'Def_1_2',
 		currentLevel: 0,
 		levelTiers: [
-			{ minLevel: 0, maxLevel: 10,
+			{ minLevel: 0, maxLevel: 20,
 				requiredPrerequisiteLevel:  [{
-					id: 'Attack',
+					id: 'attack',
 					level: 20,
 				}]
 			},
-			{ minLevel: 11, maxLevel: 20,
+			{ minLevel: 21, maxLevel: 40,
 				requiredPrerequisiteLevel: [{
-					id: 'Attack',
+					id: 'attack',
 					level: 40,
 				}]
 			},
-			{ minLevel: 21, maxLevel: 30,
+			{ minLevel: 41, maxLevel: 60,
 				requiredPrerequisiteLevel: [{
-					id: 'Attack',
+					id: 'attack',
 					level: 60,
 				}]
 			},
-			{ minLevel: 31, maxLevel: 40,
+			{ minLevel: 61, maxLevel: 80,
 				requiredPrerequisiteLevel: [{
-					id: 'Attack',
+					id: 'attack',
 					level: 80,
 				}]
 			},
-			{ minLevel: 41, maxLevel: 50,
+			{ minLevel: 81, maxLevel: 100,
 				requiredPrerequisiteLevel: [{
-					id: 'Attack',
+					id: 'attack',
 					level: 100,
 				}]
 			}
@@ -1077,31 +1077,31 @@ export const VanguardTree = (xOffset: number, yOffset: number) => [
 		name: 'Attack_2_2',
 		currentLevel: 0,
 		levelTiers: [
-			{ minLevel: 0, maxLevel: 10,
+			{ minLevel: 0, maxLevel: 20,
 				requiredPrerequisiteLevel:  [{
 					id: 'defense',
 					level: 20,
 				}]
 			},
-			{ minLevel: 11, maxLevel: 20,
+			{ minLevel: 21, maxLevel: 40,
 				requiredPrerequisiteLevel: [{
 					id: 'defense',
 					level: 40,
 				}]
 			},
-			{ minLevel: 21, maxLevel: 30,
+			{ minLevel: 41, maxLevel: 60,
 				requiredPrerequisiteLevel: [{
 					id: 'defense',
 					level: 60,
 				}]
 			},
-			{ minLevel: 31, maxLevel: 40,
+			{ minLevel: 61, maxLevel: 80,
 				requiredPrerequisiteLevel: [{
 					id: 'defense',
 					level: 80,
 				}]
 			},
-			{ minLevel: 41, maxLevel: 50,
+			{ minLevel: 81, maxLevel: 100,
 				requiredPrerequisiteLevel: [{
 					id: 'defense',
 					level: 100,

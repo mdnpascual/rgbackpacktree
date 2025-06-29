@@ -4545,7 +4545,7 @@
         "cost": 1491.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.0,
@@ -4554,7 +4554,7 @@
         "cost": 0.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.001,
@@ -4563,7 +4563,7 @@
         "cost": 20.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.002,
@@ -4572,7 +4572,7 @@
         "cost": 21.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.003,
@@ -4581,7 +4581,7 @@
         "cost": 22.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.004,
@@ -4590,7 +4590,7 @@
         "cost": 23.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.005,
@@ -4599,7 +4599,7 @@
         "cost": 24.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.006,
@@ -4608,7 +4608,7 @@
         "cost": 25.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.007,
@@ -4617,7 +4617,7 @@
         "cost": 26.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.008,
@@ -4626,7 +4626,7 @@
         "cost": 27.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.009,
@@ -4635,7 +4635,7 @@
         "cost": 28.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.01,
@@ -4644,7 +4644,7 @@
         "cost": 29.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.011,
@@ -4653,7 +4653,7 @@
         "cost": 30.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.012,
@@ -4662,7 +4662,7 @@
         "cost": 31.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.013,
@@ -4671,7 +4671,7 @@
         "cost": 32.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.014,
@@ -4680,7 +4680,7 @@
         "cost": 33.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.015,
@@ -4689,7 +4689,7 @@
         "cost": 34.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.016,
@@ -4698,7 +4698,7 @@
         "cost": 35.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.017,
@@ -4707,7 +4707,7 @@
         "cost": 36.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.018,
@@ -4716,7 +4716,7 @@
         "cost": 37.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.019,
@@ -4725,7 +4725,7 @@
         "cost": 38.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.02,
@@ -4734,7 +4734,7 @@
         "cost": 39.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.021,
@@ -4743,7 +4743,7 @@
         "cost": 40.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.022,
@@ -4752,7 +4752,7 @@
         "cost": 42.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.023,
@@ -4761,7 +4761,7 @@
         "cost": 44.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.024,
@@ -4770,7 +4770,7 @@
         "cost": 46.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.025,
@@ -4779,7 +4779,7 @@
         "cost": 48.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.026,
@@ -4788,7 +4788,7 @@
         "cost": 50.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.027,
@@ -4797,7 +4797,7 @@
         "cost": 52.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.028,
@@ -4806,7 +4806,7 @@
         "cost": 54.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.029,
@@ -4815,7 +4815,7 @@
         "cost": 56.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.03,
@@ -4824,7 +4824,7 @@
         "cost": 58.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.031,
@@ -4833,7 +4833,7 @@
         "cost": 60.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.032,
@@ -4842,7 +4842,7 @@
         "cost": 63.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.033,
@@ -4851,7 +4851,7 @@
         "cost": 66.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.034,
@@ -4860,7 +4860,7 @@
         "cost": 69.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.035,
@@ -4869,7 +4869,7 @@
         "cost": 72.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.036,
@@ -4878,7 +4878,7 @@
         "cost": 75.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.037,
@@ -4887,7 +4887,7 @@
         "cost": 78.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.038,
@@ -4896,7 +4896,7 @@
         "cost": 81.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.039,
@@ -4905,7 +4905,7 @@
         "cost": 85.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.04,
@@ -4914,7 +4914,7 @@
         "cost": 89.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.041,
@@ -4923,7 +4923,7 @@
         "cost": 93.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.042,
@@ -4932,7 +4932,7 @@
         "cost": 97.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.043,
@@ -4941,7 +4941,7 @@
         "cost": 101.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.044,
@@ -4950,7 +4950,7 @@
         "cost": 106.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.045,
@@ -4959,7 +4959,7 @@
         "cost": 111.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.046,
@@ -4968,7 +4968,7 @@
         "cost": 116.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.047,
@@ -4977,7 +4977,7 @@
         "cost": 121.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.048,
@@ -4986,7 +4986,7 @@
         "cost": 127.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.049,
@@ -4995,7 +4995,7 @@
         "cost": 133.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.05,
@@ -5004,7 +5004,7 @@
         "cost": 139.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.051,
@@ -5013,7 +5013,7 @@
         "cost": 145.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.052,
@@ -5022,7 +5022,7 @@
         "cost": 152.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.053,
@@ -5031,7 +5031,7 @@
         "cost": 159.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.054,
@@ -5040,7 +5040,7 @@
         "cost": 166.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.055,
@@ -5049,7 +5049,7 @@
         "cost": 174.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.056,
@@ -5058,7 +5058,7 @@
         "cost": 182.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.057,
@@ -5067,7 +5067,7 @@
         "cost": 191.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.058,
@@ -5076,7 +5076,7 @@
         "cost": 200.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.059,
@@ -5085,7 +5085,7 @@
         "cost": 210.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.06,
@@ -5094,7 +5094,7 @@
         "cost": 220.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.061,
@@ -5103,7 +5103,7 @@
         "cost": 231.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.062,
@@ -5112,7 +5112,7 @@
         "cost": 242.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.063,
@@ -5121,7 +5121,7 @@
         "cost": 254.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.064,
@@ -5130,7 +5130,7 @@
         "cost": 266.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.065,
@@ -5139,7 +5139,7 @@
         "cost": 279.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.066,
@@ -5148,7 +5148,7 @@
         "cost": 292.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.067,
@@ -5157,7 +5157,7 @@
         "cost": 306.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.068,
@@ -5166,7 +5166,7 @@
         "cost": 321.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.069,
@@ -5175,7 +5175,7 @@
         "cost": 337.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.07,
@@ -5184,7 +5184,7 @@
         "cost": 353.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.071,
@@ -5193,7 +5193,7 @@
         "cost": 370.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.072,
@@ -5202,7 +5202,7 @@
         "cost": 388.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.073,
@@ -5211,7 +5211,7 @@
         "cost": 407.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.074,
@@ -5220,7 +5220,7 @@
         "cost": 427.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.075,
@@ -5229,7 +5229,7 @@
         "cost": 448.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.076,
@@ -5238,7 +5238,7 @@
         "cost": 470.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.077,
@@ -5247,7 +5247,7 @@
         "cost": 493.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.078,
@@ -5256,7 +5256,7 @@
         "cost": 517.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.079,
@@ -5265,7 +5265,7 @@
         "cost": 542.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.08,
@@ -5274,7 +5274,7 @@
         "cost": 569.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.081,
@@ -5283,7 +5283,7 @@
         "cost": 597.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.082,
@@ -5292,7 +5292,7 @@
         "cost": 626.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.083,
@@ -5301,7 +5301,7 @@
         "cost": 657.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.084,
@@ -5310,7 +5310,7 @@
         "cost": 689.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.085,
@@ -5319,7 +5319,7 @@
         "cost": 723.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.086,
@@ -5328,7 +5328,7 @@
         "cost": 759.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.087,
@@ -5337,7 +5337,7 @@
         "cost": 796.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.088,
@@ -5346,7 +5346,7 @@
         "cost": 835.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.089,
@@ -5355,7 +5355,7 @@
         "cost": 876.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.09,
@@ -5364,7 +5364,7 @@
         "cost": 919.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.091,
@@ -5373,7 +5373,7 @@
         "cost": 964.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.092,
@@ -5382,7 +5382,7 @@
         "cost": 1012.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.093,
@@ -5391,7 +5391,7 @@
         "cost": 1062.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.094,
@@ -5400,7 +5400,7 @@
         "cost": 1115.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.095,
@@ -5409,7 +5409,7 @@
         "cost": 1170.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.096,
@@ -5418,7 +5418,7 @@
         "cost": 1228.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.097,
@@ -5427,7 +5427,7 @@
         "cost": 1289.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.098,
@@ -5436,7 +5436,7 @@
         "cost": 1353.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.099,
@@ -5445,7 +5445,7 @@
         "cost": 1420.0
     },
     {
-        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2"],
+        "id": ["ignore_dodge_1_1", "ignore_dodge_2_2", "ignore_dodge_3_2"],
         "name": "Ignore Dodge",
         "description": "Dawn Bringer & Valkyrie Ignore Dodge",
         "total_value": 0.1,
@@ -8703,7 +8703,7 @@
         "cost": 9875.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 0.0,
@@ -8712,7 +8712,7 @@
         "cost": 0.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 0.04,
@@ -8721,7 +8721,7 @@
         "cost": 20.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 0.08,
@@ -8730,7 +8730,7 @@
         "cost": 21.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 0.12,
@@ -8739,7 +8739,7 @@
         "cost": 22.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 0.16,
@@ -8748,7 +8748,7 @@
         "cost": 23.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 0.2,
@@ -8757,7 +8757,7 @@
         "cost": 24.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 0.24,
@@ -8766,7 +8766,7 @@
         "cost": 25.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 0.28,
@@ -8775,7 +8775,7 @@
         "cost": 26.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 0.32,
@@ -8784,7 +8784,7 @@
         "cost": 27.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 0.36,
@@ -8793,7 +8793,7 @@
         "cost": 28.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 0.4,
@@ -8802,7 +8802,7 @@
         "cost": 29.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 0.44,
@@ -8811,7 +8811,7 @@
         "cost": 30.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 0.48,
@@ -8820,7 +8820,7 @@
         "cost": 31.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 0.52,
@@ -8829,7 +8829,7 @@
         "cost": 32.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 0.56,
@@ -8838,7 +8838,7 @@
         "cost": 33.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 0.6,
@@ -8847,7 +8847,7 @@
         "cost": 34.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 0.64,
@@ -8856,7 +8856,7 @@
         "cost": 35.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 0.68,
@@ -8865,7 +8865,7 @@
         "cost": 36.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 0.72,
@@ -8874,7 +8874,7 @@
         "cost": 37.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 0.76,
@@ -8883,7 +8883,7 @@
         "cost": 38.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 0.8,
@@ -8892,7 +8892,7 @@
         "cost": 39.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 0.84,
@@ -8901,7 +8901,7 @@
         "cost": 40.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 0.88,
@@ -8910,7 +8910,7 @@
         "cost": 42.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 0.92,
@@ -8919,7 +8919,7 @@
         "cost": 44.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 0.96,
@@ -8928,7 +8928,7 @@
         "cost": 46.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 1.0,
@@ -8937,7 +8937,7 @@
         "cost": 48.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 1.04,
@@ -8946,7 +8946,7 @@
         "cost": 50.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 1.08,
@@ -8955,7 +8955,7 @@
         "cost": 52.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 1.12,
@@ -8964,7 +8964,7 @@
         "cost": 54.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 1.16,
@@ -8973,7 +8973,7 @@
         "cost": 56.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 1.2,
@@ -8982,7 +8982,7 @@
         "cost": 58.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 1.24,
@@ -8991,7 +8991,7 @@
         "cost": 60.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 1.28,
@@ -9000,7 +9000,7 @@
         "cost": 63.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 1.32,
@@ -9009,7 +9009,7 @@
         "cost": 66.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 1.36,
@@ -9018,7 +9018,7 @@
         "cost": 69.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 1.4,
@@ -9027,7 +9027,7 @@
         "cost": 72.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 1.44,
@@ -9036,7 +9036,7 @@
         "cost": 75.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 1.48,
@@ -9045,7 +9045,7 @@
         "cost": 78.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 1.52,
@@ -9054,7 +9054,7 @@
         "cost": 81.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 1.56,
@@ -9063,7 +9063,7 @@
         "cost": 85.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 1.6,
@@ -9072,7 +9072,7 @@
         "cost": 89.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 1.64,
@@ -9081,7 +9081,7 @@
         "cost": 93.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 1.68,
@@ -9090,7 +9090,7 @@
         "cost": 97.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 1.72,
@@ -9099,7 +9099,7 @@
         "cost": 101.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 1.76,
@@ -9108,7 +9108,7 @@
         "cost": 106.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 1.8,
@@ -9117,7 +9117,7 @@
         "cost": 111.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 1.84,
@@ -9126,7 +9126,7 @@
         "cost": 116.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 1.88,
@@ -9135,7 +9135,7 @@
         "cost": 121.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 1.92,
@@ -9144,7 +9144,7 @@
         "cost": 127.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 1.96,
@@ -9153,7 +9153,7 @@
         "cost": 133.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 2.0,
@@ -9162,7 +9162,7 @@
         "cost": 139.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 2.04,
@@ -9171,7 +9171,7 @@
         "cost": 145.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 2.08,
@@ -9180,7 +9180,7 @@
         "cost": 152.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 2.12,
@@ -9189,7 +9189,7 @@
         "cost": 159.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 2.16,
@@ -9198,7 +9198,7 @@
         "cost": 166.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 2.2,
@@ -9207,7 +9207,7 @@
         "cost": 174.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 2.24,
@@ -9216,7 +9216,7 @@
         "cost": 182.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 2.28,
@@ -9225,7 +9225,7 @@
         "cost": 191.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 2.32,
@@ -9234,7 +9234,7 @@
         "cost": 200.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 2.36,
@@ -9243,7 +9243,7 @@
         "cost": 210.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 2.4,
@@ -9252,7 +9252,7 @@
         "cost": 220.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 2.44,
@@ -9261,7 +9261,7 @@
         "cost": 231.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 2.48,
@@ -9270,7 +9270,7 @@
         "cost": 242.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 2.52,
@@ -9279,7 +9279,7 @@
         "cost": 254.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 2.56,
@@ -9288,7 +9288,7 @@
         "cost": 266.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 2.6,
@@ -9297,7 +9297,7 @@
         "cost": 279.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 2.64,
@@ -9306,7 +9306,7 @@
         "cost": 292.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 2.68,
@@ -9315,7 +9315,7 @@
         "cost": 306.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 2.72,
@@ -9324,7 +9324,7 @@
         "cost": 321.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 2.76,
@@ -9333,7 +9333,7 @@
         "cost": 337.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 2.8,
@@ -9342,7 +9342,7 @@
         "cost": 353.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 2.84,
@@ -9351,7 +9351,7 @@
         "cost": 370.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 2.88,
@@ -9360,7 +9360,7 @@
         "cost": 388.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 2.92,
@@ -9369,7 +9369,7 @@
         "cost": 407.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 2.96,
@@ -9378,7 +9378,7 @@
         "cost": 427.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 3.0,
@@ -9387,7 +9387,7 @@
         "cost": 448.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 3.04,
@@ -9396,7 +9396,7 @@
         "cost": 470.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 3.08,
@@ -9405,7 +9405,7 @@
         "cost": 493.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 3.12,
@@ -9414,7 +9414,7 @@
         "cost": 517.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 3.16,
@@ -9423,7 +9423,7 @@
         "cost": 542.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 3.2,
@@ -9432,7 +9432,7 @@
         "cost": 569.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 3.24,
@@ -9441,7 +9441,7 @@
         "cost": 597.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 3.28,
@@ -9450,7 +9450,7 @@
         "cost": 626.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 3.32,
@@ -9459,7 +9459,7 @@
         "cost": 657.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 3.36,
@@ -9468,7 +9468,7 @@
         "cost": 689.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 3.4,
@@ -9477,7 +9477,7 @@
         "cost": 723.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 3.44,
@@ -9486,7 +9486,7 @@
         "cost": 759.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 3.48,
@@ -9495,7 +9495,7 @@
         "cost": 796.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 3.52,
@@ -9504,7 +9504,7 @@
         "cost": 835.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 3.56,
@@ -9513,7 +9513,7 @@
         "cost": 876.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 3.6,
@@ -9522,7 +9522,7 @@
         "cost": 919.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 3.64,
@@ -9531,7 +9531,7 @@
         "cost": 964.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 3.68,
@@ -9540,7 +9540,7 @@
         "cost": 1012.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 3.72,
@@ -9549,7 +9549,7 @@
         "cost": 1062.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 3.76,
@@ -9558,7 +9558,7 @@
         "cost": 1115.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 3.8,
@@ -9567,7 +9567,7 @@
         "cost": 1170.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 3.84,
@@ -9576,7 +9576,7 @@
         "cost": 1228.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 3.88,
@@ -9585,7 +9585,7 @@
         "cost": 1289.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 3.92,
@@ -9594,7 +9594,7 @@
         "cost": 1353.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 3.96,
@@ -9603,7 +9603,7 @@
         "cost": 1420.0
     },
     {
-        "id": ["pierce_3_1", "pierce_1_1"],
+        "id": ["pierce_3_1", "pierce_1_1", "pierce_2_1"],
         "name": "Pierce Damage",
         "description": "Dawn Bringer & Valkyrie Pierce Damage",
         "total_value": 4.0,
@@ -13248,7 +13248,7 @@
         "cost": 1491.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 0.0,
@@ -13257,7 +13257,7 @@
         "cost": 0.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 0.04,
@@ -13266,7 +13266,7 @@
         "cost": 20.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 0.08,
@@ -13275,7 +13275,7 @@
         "cost": 21.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 0.12,
@@ -13284,7 +13284,7 @@
         "cost": 22.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 0.16,
@@ -13293,7 +13293,7 @@
         "cost": 23.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 0.2,
@@ -13302,7 +13302,7 @@
         "cost": 24.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 0.24,
@@ -13311,7 +13311,7 @@
         "cost": 25.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 0.28,
@@ -13320,7 +13320,7 @@
         "cost": 26.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 0.32,
@@ -13329,7 +13329,7 @@
         "cost": 27.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 0.36,
@@ -13338,7 +13338,7 @@
         "cost": 28.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 0.4,
@@ -13347,7 +13347,7 @@
         "cost": 29.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 0.44,
@@ -13356,7 +13356,7 @@
         "cost": 30.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 0.48,
@@ -13365,7 +13365,7 @@
         "cost": 31.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 0.52,
@@ -13374,7 +13374,7 @@
         "cost": 32.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 0.56,
@@ -13383,7 +13383,7 @@
         "cost": 33.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 0.6,
@@ -13392,7 +13392,7 @@
         "cost": 34.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 0.64,
@@ -13401,7 +13401,7 @@
         "cost": 35.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 0.68,
@@ -13410,7 +13410,7 @@
         "cost": 36.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 0.72,
@@ -13419,7 +13419,7 @@
         "cost": 37.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 0.76,
@@ -13428,7 +13428,7 @@
         "cost": 38.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 0.8,
@@ -13437,7 +13437,7 @@
         "cost": 39.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 0.84,
@@ -13446,7 +13446,7 @@
         "cost": 40.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 0.88,
@@ -13455,7 +13455,7 @@
         "cost": 42.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 0.92,
@@ -13464,7 +13464,7 @@
         "cost": 44.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 0.96,
@@ -13473,7 +13473,7 @@
         "cost": 46.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 1.0,
@@ -13482,7 +13482,7 @@
         "cost": 48.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 1.04,
@@ -13491,7 +13491,7 @@
         "cost": 50.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 1.08,
@@ -13500,7 +13500,7 @@
         "cost": 52.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 1.12,
@@ -13509,7 +13509,7 @@
         "cost": 54.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 1.16,
@@ -13518,7 +13518,7 @@
         "cost": 56.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 1.2,
@@ -13527,7 +13527,7 @@
         "cost": 58.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 1.24,
@@ -13536,7 +13536,7 @@
         "cost": 60.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 1.28,
@@ -13545,7 +13545,7 @@
         "cost": 63.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 1.32,
@@ -13554,7 +13554,7 @@
         "cost": 66.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 1.36,
@@ -13563,7 +13563,7 @@
         "cost": 69.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 1.4,
@@ -13572,7 +13572,7 @@
         "cost": 72.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 1.44,
@@ -13581,7 +13581,7 @@
         "cost": 75.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 1.48,
@@ -13590,7 +13590,7 @@
         "cost": 78.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 1.52,
@@ -13599,7 +13599,7 @@
         "cost": 81.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 1.56,
@@ -13608,7 +13608,7 @@
         "cost": 85.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 1.6,
@@ -13617,7 +13617,7 @@
         "cost": 89.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 1.64,
@@ -13626,7 +13626,7 @@
         "cost": 93.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 1.68,
@@ -13635,7 +13635,7 @@
         "cost": 97.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 1.72,
@@ -13644,7 +13644,7 @@
         "cost": 101.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 1.76,
@@ -13653,7 +13653,7 @@
         "cost": 106.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 1.8,
@@ -13662,7 +13662,7 @@
         "cost": 111.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 1.84,
@@ -13671,7 +13671,7 @@
         "cost": 116.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 1.88,
@@ -13680,7 +13680,7 @@
         "cost": 121.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 1.92,
@@ -13689,7 +13689,7 @@
         "cost": 127.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 1.96,
@@ -13698,7 +13698,7 @@
         "cost": 133.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 2.0,
@@ -13707,7 +13707,7 @@
         "cost": 139.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 2.04,
@@ -13716,7 +13716,7 @@
         "cost": 145.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 2.08,
@@ -13725,7 +13725,7 @@
         "cost": 152.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 2.12,
@@ -13734,7 +13734,7 @@
         "cost": 159.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 2.16,
@@ -13743,7 +13743,7 @@
         "cost": 166.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 2.2,
@@ -13752,7 +13752,7 @@
         "cost": 174.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 2.24,
@@ -13761,7 +13761,7 @@
         "cost": 182.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 2.28,
@@ -13770,7 +13770,7 @@
         "cost": 191.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 2.32,
@@ -13779,7 +13779,7 @@
         "cost": 200.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 2.36,
@@ -13788,7 +13788,7 @@
         "cost": 210.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 2.4,
@@ -13797,7 +13797,7 @@
         "cost": 220.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 2.44,
@@ -13806,7 +13806,7 @@
         "cost": 231.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 2.48,
@@ -13815,7 +13815,7 @@
         "cost": 242.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 2.52,
@@ -13824,7 +13824,7 @@
         "cost": 254.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 2.56,
@@ -13833,7 +13833,7 @@
         "cost": 266.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 2.6,
@@ -13842,7 +13842,7 @@
         "cost": 279.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 2.64,
@@ -13851,7 +13851,7 @@
         "cost": 292.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 2.68,
@@ -13860,7 +13860,7 @@
         "cost": 306.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 2.72,
@@ -13869,7 +13869,7 @@
         "cost": 321.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 2.76,
@@ -13878,7 +13878,7 @@
         "cost": 337.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 2.8,
@@ -13887,7 +13887,7 @@
         "cost": 353.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 2.84,
@@ -13896,7 +13896,7 @@
         "cost": 370.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 2.88,
@@ -13905,7 +13905,7 @@
         "cost": 388.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 2.92,
@@ -13914,7 +13914,7 @@
         "cost": 407.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 2.96,
@@ -13923,7 +13923,7 @@
         "cost": 427.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 3.0,
@@ -13932,7 +13932,7 @@
         "cost": 448.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 3.04,
@@ -13941,7 +13941,7 @@
         "cost": 470.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 3.08,
@@ -13950,7 +13950,7 @@
         "cost": 493.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 3.12,
@@ -13959,7 +13959,7 @@
         "cost": 517.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 3.16,
@@ -13968,7 +13968,7 @@
         "cost": 542.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 3.2,
@@ -13977,7 +13977,7 @@
         "cost": 569.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 3.24,
@@ -13986,7 +13986,7 @@
         "cost": 597.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 3.28,
@@ -13995,7 +13995,7 @@
         "cost": 626.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 3.32,
@@ -14004,7 +14004,7 @@
         "cost": 657.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 3.36,
@@ -14013,7 +14013,7 @@
         "cost": 689.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 3.4,
@@ -14022,7 +14022,7 @@
         "cost": 723.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 3.44,
@@ -14031,7 +14031,7 @@
         "cost": 759.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 3.48,
@@ -14040,7 +14040,7 @@
         "cost": 796.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 3.52,
@@ -14049,7 +14049,7 @@
         "cost": 835.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 3.56,
@@ -14058,7 +14058,7 @@
         "cost": 876.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 3.6,
@@ -14067,7 +14067,7 @@
         "cost": 919.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 3.64,
@@ -14076,7 +14076,7 @@
         "cost": 964.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 3.68,
@@ -14085,7 +14085,7 @@
         "cost": 1012.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 3.72,
@@ -14094,7 +14094,7 @@
         "cost": 1062.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 3.76,
@@ -14103,7 +14103,7 @@
         "cost": 1115.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 3.8,
@@ -14112,7 +14112,7 @@
         "cost": 1170.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 3.84,
@@ -14121,7 +14121,7 @@
         "cost": 1228.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 3.88,
@@ -14130,7 +14130,7 @@
         "cost": 1289.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 3.92,
@@ -14139,7 +14139,7 @@
         "cost": 1353.0
     },
     {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 3.96,
@@ -14148,917 +14148,7 @@
         "cost": 1420.0
     },
     {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 4.0,
-        "value": 0.040000000000000036,
-        "level": 100.0,
-        "cost": 1491.0
-    },
-
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 0.0,
-        "value": 0.0,
-        "level": 0.0,
-        "cost": 0.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 0.04,
-        "value": 0.04,
-        "level": 1.0,
-        "cost": 20.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 0.08,
-        "value": 0.04,
-        "level": 2.0,
-        "cost": 21.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 0.12,
-        "value": 0.039999999999999994,
-        "level": 3.0,
-        "cost": 22.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 0.16,
-        "value": 0.04000000000000001,
-        "level": 4.0,
-        "cost": 23.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 0.2,
-        "value": 0.04000000000000001,
-        "level": 5.0,
-        "cost": 24.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 0.24,
-        "value": 0.03999999999999998,
-        "level": 6.0,
-        "cost": 25.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 0.28,
-        "value": 0.040000000000000036,
-        "level": 7.0,
-        "cost": 26.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 0.32,
-        "value": 0.03999999999999998,
-        "level": 8.0,
-        "cost": 27.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 0.36,
-        "value": 0.03999999999999998,
-        "level": 9.0,
-        "cost": 28.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 0.4,
-        "value": 0.040000000000000036,
-        "level": 10.0,
-        "cost": 29.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 0.44,
-        "value": 0.03999999999999998,
-        "level": 11.0,
-        "cost": 30.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 0.48,
-        "value": 0.03999999999999998,
-        "level": 12.0,
-        "cost": 31.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 0.52,
-        "value": 0.040000000000000036,
-        "level": 13.0,
-        "cost": 32.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 0.56,
-        "value": 0.040000000000000036,
-        "level": 14.0,
-        "cost": 33.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 0.6,
-        "value": 0.039999999999999925,
-        "level": 15.0,
-        "cost": 34.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 0.64,
-        "value": 0.040000000000000036,
-        "level": 16.0,
-        "cost": 35.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 0.68,
-        "value": 0.040000000000000036,
-        "level": 17.0,
-        "cost": 36.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 0.72,
-        "value": 0.039999999999999925,
-        "level": 18.0,
-        "cost": 37.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 0.76,
-        "value": 0.040000000000000036,
-        "level": 19.0,
-        "cost": 38.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 0.8,
-        "value": 0.040000000000000036,
-        "level": 20.0,
-        "cost": 39.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 0.84,
-        "value": 0.039999999999999925,
-        "level": 21.0,
-        "cost": 40.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 0.88,
-        "value": 0.040000000000000036,
-        "level": 22.0,
-        "cost": 42.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 0.92,
-        "value": 0.040000000000000036,
-        "level": 23.0,
-        "cost": 44.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 0.96,
-        "value": 0.039999999999999925,
-        "level": 24.0,
-        "cost": 46.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 1.0,
-        "value": 0.040000000000000036,
-        "level": 25.0,
-        "cost": 48.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 1.04,
-        "value": 0.040000000000000036,
-        "level": 26.0,
-        "cost": 50.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 1.08,
-        "value": 0.040000000000000036,
-        "level": 27.0,
-        "cost": 52.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 1.12,
-        "value": 0.040000000000000036,
-        "level": 28.0,
-        "cost": 54.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 1.16,
-        "value": 0.039999999999999813,
-        "level": 29.0,
-        "cost": 56.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 1.2,
-        "value": 0.040000000000000036,
-        "level": 30.0,
-        "cost": 58.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 1.24,
-        "value": 0.040000000000000036,
-        "level": 31.0,
-        "cost": 60.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 1.28,
-        "value": 0.040000000000000036,
-        "level": 32.0,
-        "cost": 63.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 1.32,
-        "value": 0.040000000000000036,
-        "level": 33.0,
-        "cost": 66.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 1.36,
-        "value": 0.040000000000000036,
-        "level": 34.0,
-        "cost": 69.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 1.4,
-        "value": 0.039999999999999813,
-        "level": 35.0,
-        "cost": 72.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 1.44,
-        "value": 0.040000000000000036,
-        "level": 36.0,
-        "cost": 75.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 1.48,
-        "value": 0.040000000000000036,
-        "level": 37.0,
-        "cost": 78.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 1.52,
-        "value": 0.040000000000000036,
-        "level": 38.0,
-        "cost": 81.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 1.56,
-        "value": 0.040000000000000036,
-        "level": 39.0,
-        "cost": 85.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 1.6,
-        "value": 0.040000000000000036,
-        "level": 40.0,
-        "cost": 89.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 1.64,
-        "value": 0.039999999999999813,
-        "level": 41.0,
-        "cost": 93.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 1.68,
-        "value": 0.040000000000000036,
-        "level": 42.0,
-        "cost": 97.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 1.72,
-        "value": 0.040000000000000036,
-        "level": 43.0,
-        "cost": 101.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 1.76,
-        "value": 0.040000000000000036,
-        "level": 44.0,
-        "cost": 106.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 1.8,
-        "value": 0.040000000000000036,
-        "level": 45.0,
-        "cost": 111.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 1.84,
-        "value": 0.040000000000000036,
-        "level": 46.0,
-        "cost": 116.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 1.88,
-        "value": 0.039999999999999813,
-        "level": 47.0,
-        "cost": 121.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 1.92,
-        "value": 0.040000000000000036,
-        "level": 48.0,
-        "cost": 127.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 1.96,
-        "value": 0.040000000000000036,
-        "level": 49.0,
-        "cost": 133.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 2.0,
-        "value": 0.040000000000000036,
-        "level": 50.0,
-        "cost": 139.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 2.04,
-        "value": 0.040000000000000036,
-        "level": 51.0,
-        "cost": 145.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 2.08,
-        "value": 0.040000000000000036,
-        "level": 52.0,
-        "cost": 152.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 2.12,
-        "value": 0.040000000000000036,
-        "level": 53.0,
-        "cost": 159.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 2.16,
-        "value": 0.040000000000000036,
-        "level": 54.0,
-        "cost": 166.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 2.2,
-        "value": 0.040000000000000036,
-        "level": 55.0,
-        "cost": 174.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 2.24,
-        "value": 0.040000000000000036,
-        "level": 56.0,
-        "cost": 182.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 2.28,
-        "value": 0.03999999999999959,
-        "level": 57.0,
-        "cost": 191.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 2.32,
-        "value": 0.040000000000000036,
-        "level": 58.0,
-        "cost": 200.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 2.36,
-        "value": 0.040000000000000036,
-        "level": 59.0,
-        "cost": 210.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 2.4,
-        "value": 0.040000000000000036,
-        "level": 60.0,
-        "cost": 220.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 2.44,
-        "value": 0.040000000000000036,
-        "level": 61.0,
-        "cost": 231.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 2.48,
-        "value": 0.040000000000000036,
-        "level": 62.0,
-        "cost": 242.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 2.52,
-        "value": 0.040000000000000036,
-        "level": 63.0,
-        "cost": 254.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 2.56,
-        "value": 0.040000000000000036,
-        "level": 64.0,
-        "cost": 266.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 2.6,
-        "value": 0.040000000000000036,
-        "level": 65.0,
-        "cost": 279.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 2.64,
-        "value": 0.040000000000000036,
-        "level": 66.0,
-        "cost": 292.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 2.68,
-        "value": 0.040000000000000036,
-        "level": 67.0,
-        "cost": 306.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 2.72,
-        "value": 0.040000000000000036,
-        "level": 68.0,
-        "cost": 321.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 2.76,
-        "value": 0.03999999999999959,
-        "level": 69.0,
-        "cost": 337.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 2.8,
-        "value": 0.040000000000000036,
-        "level": 70.0,
-        "cost": 353.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 2.84,
-        "value": 0.040000000000000036,
-        "level": 71.0,
-        "cost": 370.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 2.88,
-        "value": 0.040000000000000036,
-        "level": 72.0,
-        "cost": 388.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 2.92,
-        "value": 0.040000000000000036,
-        "level": 73.0,
-        "cost": 407.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 2.96,
-        "value": 0.040000000000000036,
-        "level": 74.0,
-        "cost": 427.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 3.0,
-        "value": 0.040000000000000036,
-        "level": 75.0,
-        "cost": 448.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 3.04,
-        "value": 0.040000000000000036,
-        "level": 76.0,
-        "cost": 470.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 3.08,
-        "value": 0.040000000000000036,
-        "level": 77.0,
-        "cost": 493.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 3.12,
-        "value": 0.040000000000000036,
-        "level": 78.0,
-        "cost": 517.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 3.16,
-        "value": 0.040000000000000036,
-        "level": 79.0,
-        "cost": 542.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 3.2,
-        "value": 0.040000000000000036,
-        "level": 80.0,
-        "cost": 569.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 3.24,
-        "value": 0.040000000000000036,
-        "level": 81.0,
-        "cost": 597.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 3.28,
-        "value": 0.03999999999999959,
-        "level": 82.0,
-        "cost": 626.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 3.32,
-        "value": 0.040000000000000036,
-        "level": 83.0,
-        "cost": 657.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 3.36,
-        "value": 0.040000000000000036,
-        "level": 84.0,
-        "cost": 689.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 3.4,
-        "value": 0.040000000000000036,
-        "level": 85.0,
-        "cost": 723.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 3.44,
-        "value": 0.040000000000000036,
-        "level": 86.0,
-        "cost": 759.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 3.48,
-        "value": 0.040000000000000036,
-        "level": 87.0,
-        "cost": 796.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 3.52,
-        "value": 0.040000000000000036,
-        "level": 88.0,
-        "cost": 835.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 3.56,
-        "value": 0.040000000000000036,
-        "level": 89.0,
-        "cost": 876.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 3.6,
-        "value": 0.040000000000000036,
-        "level": 90.0,
-        "cost": 919.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 3.64,
-        "value": 0.040000000000000036,
-        "level": 91.0,
-        "cost": 964.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 3.68,
-        "value": 0.040000000000000036,
-        "level": 92.0,
-        "cost": 1012.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 3.72,
-        "value": 0.040000000000000036,
-        "level": 93.0,
-        "cost": 1062.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 3.76,
-        "value": 0.03999999999999959,
-        "level": 94.0,
-        "cost": 1115.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 3.8,
-        "value": 0.040000000000000036,
-        "level": 95.0,
-        "cost": 1170.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 3.84,
-        "value": 0.040000000000000036,
-        "level": 96.0,
-        "cost": 1228.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 3.88,
-        "value": 0.040000000000000036,
-        "level": 97.0,
-        "cost": 1289.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 3.92,
-        "value": 0.040000000000000036,
-        "level": 98.0,
-        "cost": 1353.0
-    },
-    {
-        "id": "skill_crit_resistance",
-        "name": "Skill Crit Resistance",
-        "description": "Dawn Bringer & Valkyrie Critical Hit",
-        "total_value": 3.96,
-        "value": 0.040000000000000036,
-        "level": 99.0,
-        "cost": 1420.0
-    },
-    {
-        "id": "skill_crit_resistance",
+        "id": ["skill_crit_2_1", "skill_crit_1_1"],
         "name": "Skill Crit Resistance",
         "description": "Dawn Bringer & Valkyrie Critical Hit",
         "total_value": 4.0,
